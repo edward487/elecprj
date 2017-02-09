@@ -10,6 +10,7 @@
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
   </head>
   <body>
+      <?php include 'navbar.php' ?><hr><hr><br>
     <div class="container" style="margin-top:40px">
             <div class="row">
                 <div class="col-sm-6 col-md-4 col-md-offset-4">
