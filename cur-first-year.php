@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/cur-first-year.css">
+    <link rel="stylesheet" href="css/cur.css">
      
   </head>
   <body>
@@ -13,6 +13,7 @@
       <br><br><br><br>
     <div class="container">
         <div id="magazine">
+            <div style="background-image:url('img/IMG_2344.JPG');"></div>
             <div style="background-image:url('img/IMG_2345.JPG');"></div>
             <div style="background-image:url('img/IMG_2346.JPG');"></div>
             <div style="background-image:url('img/IMG_2347.JPG');"></div>
@@ -49,12 +50,12 @@
 			$('#magazine').turn('next');
 			
 	});
-</script>
+</script><br><br><br><br>
       <div class="container">
-        <div id="curr">
         <div class="col-md-12">
           <h1><strong>FIRST YEAR CURRICULUM</strong></h1>
-        </div><br><br><br><br> 
+        </div><br><br><br><br>
+        <img src="img/cpe_cur_y1.png">
         <div class="row">
             <div class="col-md-4">
                 <h3><strong>ENGINEERING DRAWING</strong></h3>

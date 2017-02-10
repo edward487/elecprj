@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/cur-second-year.css">
+    <link rel="stylesheet" href="css/cur.css">
            
   </head>
   <body>
@@ -49,12 +49,12 @@
 			$('#magazine').turn('next');
 			
 	});
-</script>
+</script><br><br><br><br>
       <div class="container">
-        <div id="curr">
         <div class="col-md-12">
           <h1><strong>THIRD YEAR CURRICULUM</strong></h1>
         </div><br><br><br><br> 
+        <img src="img/cpe_cur_y3.png">
         <div class="row">
             <div class="col-md-4">
                 <h3><strong>ELECTRIC CIRCUITS 1</strong></h3>
