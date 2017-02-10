@@ -10,7 +10,7 @@
     <script src="js/createaccount.js"></script>
   </head>
   <body>
-      <?php include 'navbar.php'?><hr><br><br><br><br><br><br><br><br>
+      <?php include 'navbar.php'?><br><br><br><br><br><br><br>
     <div class="container">
         <div class="col-md-offset-4">
             <div class="col-md-8">
@@ -18,7 +18,7 @@
             </div>
         </div><hr><br><br>
         <div class="col-md-offset-3 col-md-6">
-            <?php echo "JJE Inc. is here to provide you with more information, answer any questions you may &emsp;&emsp;&emsp;&emsp;have and create an effective solutions for your instructional needs";?>
+            <?php echo "JME Inc. is here to provide you with more information, answer any questions you &emsp;&emsp;&emsp;may have and create an effective solutions for your instructional needs";?>
         </div><hr><br>
         <div class="col-md-offset-5">&emsp;&emsp;&nbsp;
              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#contact-form">Click here</button>

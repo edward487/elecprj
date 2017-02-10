@@ -14,7 +14,7 @@
     <script src='https://www.google.com/recaptcha/api.js'></script>
   </head>
   <body>
-       <?php include 'navbar.php' ?><hr><hr><br>
+       <?php include 'navbar.php'?><br><br><br>
       <div class="container">
           <div class="panel-heading col-md-offset-4">
               <h1><strong>&emsp;&nbsp;Create Account</strong></h1>
