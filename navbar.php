@@ -25,7 +25,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Curriculum<span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="#">First Year</a></li>
+                <li><a href="cur-first-year.php">First Year</a></li>
                 <li><a href="#">Second Year</a></li>
                 <li><a href="#">Third Year</a></li>
                 <li><a href="#">Fourth Year</a></li>

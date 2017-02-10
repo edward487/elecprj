@@ -16,3 +16,9 @@
 	-webkit-border-radius: 50%;
 	border-radius: 50%;
 }
+
+body {
+    background: url(../img/113H.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
