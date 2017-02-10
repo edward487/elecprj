@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/cur-first-year.css">
+    <link rel="stylesheet" href="css/cur-second-year.css">
      
     <script src="vendor/jquery/jquery-3.1.1.js"></script>
     <script type="text/javascript" src="vendor/turnjs4/lib/turn.min.js"></script>
@@ -94,68 +94,60 @@
       <div class="container">
         <div id="curr">
         <div class="col-md-12">
-          <h1><strong>FIRST YEAR CURRICULUM</strong></h1>
+          <h1><strong>SECOND YEAR CURRICULUM</strong></h1>
         </div><br><br><br><br>
         <div id="curpic">
-            <img src="img/cpe_cur_y1.png">     
-        </div> 
+            <img src="img/cpe_cur_y2.png">     
+        </div>    
         <div class="row">
             <div class="col-md-4">
-                <h3><strong>ENGINEERING DRAWING</strong></h3>
+                <h3><strong>COMPUTER FUNDAMENTALS AND PROGRAMMING</strong></h3>
             </div>
             <div class="col-md-12">
-                <?php echo "Practices and techniques of graphical communication; application of drafting instruments, lettering scale, and units of measure; descriptive geometry; orthographic projections; auxiliary views; dimensioning; sectional views; pictorial drawings; requirements of engineering working drawings; and assembly and exploded detailed drawings. 
+                <?php echo "Basic information technology concepts; fundamentals of algorithm development; high-level language and programming applications; computer solution of engineering problems.
                 
-                Prerequisite: None"; ?>
+                Prerequisite: At least 2nd year standing"; ?>
             </div><br><br>
             <div class="col-md-4">
-                <h3><strong>GENERAL AND ORGANIC CHEMISTRY</strong></h3>
+                <h3><strong>ENGINEERING PHYSICS 1</strong></h3>
             </div>
             <div class="col-md-12">
-                <?php echo "Basic concepts of matter and its classification; mass relationships in chemical reactions; properties of gases, liquids and solids; concepts of thermos chemistry; quantum theory and electronic behavior; periodic relationship of elements in the periodic table, intermolecular forces; and solutions.
+                <?php echo "Vectors; kinematics; dynamics; work; energy; and power; impulse and momentum; rotation; dynamics of rotation; elasticity; and oscillation.
                 
-                Prerequisite: None"; ?>
+                Prerequisite: College Algebra; Plane and Spherical Trigonometry"; ?>
             </div><br><br>
             <div class="col-md-4">
-                <h3><strong>COLLEGE ALGEBRA</strong></h3>
+                <h3><strong>ENGINEERING PHYSICS 2</strong></h3>
             </div>
             <div class="col-md-12">
-                <?php echo "Algebraic expressions and equations, solution sets of algebraic equations in one variable: linear, quadratic, polynomial degree n, fractional, radical equations, quadratic in form, exponential and logarithmic equations; decomposition of fractions into partial fractions, solution of systems of linear equations involving up to three variables.
+                <?php echo "Fluids; thermal expansion, thermal stress; heat transfer, calorimetry, waves; electrostatics; electricity; magnetism; optics; image formation by plane and curved mirrors; and image formation by thin lenses.
                 
-                Prerequisite: None"; ?>
+                Prerequisite: Engineering Physics 1"; ?>
             </div><br><br>
             <div class="col-md-4">
-                <h3><strong>PLANE AND SPHERICAL TRIGONOMETRY</strong></h3>
+                <h3><strong>DIFFERENTIAL CALCULUS</strong></h3>
             </div>
             <div class="col-md-12">
-                <?php echo "The course aims to prepare students for further study in Mathematics and other related fields. It begins with a brief discussion of the trigonometric functions for acute angles, thus leading to the spherical functions of trigonometry. Problems have been made simple to enable students to grasp principles and learn methods that can be applied in engineering fields for estimation and accuracy. A considerable portion of the subject matter is concerned with the study of properties of the relations among plane and spherical trigonometric functions. Trigonometric functions; identities and equations; solutions of triangles; laws of sine; laws of cosine; complex numbers; inverse trigonometric functions.
+                <?php echo "A 4-unit Mathematics class for sophomore engineering students. Being the first of the two series of Calculus, it includes functions, limits and continuity, derivatives and differentiation, partial derivatives and applications.
                 
-                Prerequisite: None"; ?>
+                Prerequisite: Advanced Algebra; Analytic Geometry; Solid Mensuration"; ?>
             </div><br><br>
             <div class="col-md-4">
-                <h3><strong>ADVANCED ALGEBRA</strong></h3>
+                <h3><strong>INTEGRAL CALCULUS</strong></h3>
             </div>
             <div class="col-md-12">
-                <?php echo "Matrices and determinants, arithmetic and geometric series, solution sets of different types of inequalities and systems involving quadratics, solution of linear equations using determinants and matrices.
+                <?php echo "Integral calculus is the second course in the series of Calculus subjects. A 4-unit lecture course that covers the general properties of indefinite integrals. It includes integration formulas on algebraic, logarithmic, exponential, trigonometric, and inverse trigonometric functions. It also includes the different techniques of integration namely; transformation of trigonometric formulas, integration by parts, algebraic and trigonometric substitution, and integration of rational functions together with basic applications that includes plane areas and solids of revolution, that employs definite integrals.
+                
+                Prerequisite: Differential Calculus"; ?>
+            </div><br><br>
+            <div class="col-md-4">
+                <h3><strong>PROBABILITY AND STATISTICS</strong></h3>
+            </div>
+            <div class="col-md-12">
+                <?php echo "Basic principles of statistics. Charts, graphs, presentations and analysis of data averages, medians, mode, deviations, probability, normal curves and applications.
                 
                 Prerequisite: College Algebra"; ?>
-            </div><br><br>
-            <div class="col-md-4">
-                <h3><strong>ANALYTIC GEOMETRY</strong></h3>
-            </div>
-            <div class="col-md-12">
-                <?php echo "Equations of lines and conic sections; curve tracing in both rectangular and polar coordinates in two-dimensional space. 
-                
-                Prerequisite: College Algebra; Plane and Spherical Trigonometry"; ?>
-            </div><br><br>
-            <div class="col-md-4">
-                <h3><strong>SOLID MENSURATION</strong></h3>
-            </div>
-            <div class="col-md-12">
-                <?php echo "Concept of lines and planes; Cavalier’s and Volume theorems; formulas for areas of plane figures, volumes for solids; volumes and surface areas for spheres, pyramids, and cones; zone, sector and segment of a sphere; theorems of Pappus. 
-                
-                Prerequisite: College Algebra; Plane and Spherical Trigonometry"; ?>
-            </div><br><br>            
+            </div><br><br>           
         </div>
       </div>
     </div>

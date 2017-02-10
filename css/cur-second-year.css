@@ -8,3 +8,6 @@
     #curr .col-md-12{
     text-align: justify;
     }
+#curr .curpic{
+    image-resolution: 300dpi;
+}
