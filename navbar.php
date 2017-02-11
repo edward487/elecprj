@@ -1,8 +1,6 @@
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="css/navbar.css">
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script src="js/navbar.js"></script>
+    
 <!-- Fixed navbar -->
     <nav class="navbar">
         <div class="navbar-inner">
@@ -42,3 +40,6 @@
       </div>
         </div>
     </nav>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/navbar.js"></script>
