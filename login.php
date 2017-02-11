@@ -55,7 +55,7 @@
                             </form>
                         </div>
                         <div class="panel-footer" align="center">
-                            Don't have an account! <a href="createaccount.php" onClick=""> Sign Up Here </a>
+                            Don't have an account? <a href="createaccount.php" onClick=""> Sign Up Here </a>
                         </div>
                     </div>
                 </div>
