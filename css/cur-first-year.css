@@ -1,0 +1,7 @@
+    body{
+        background-color: black;
+    }
+    #magazine .turn-page{
+        background-color:#ddd;
+        background-size:100% 50%;
+    }
