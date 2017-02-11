@@ -1,5 +1,5 @@
     body{
-        background-color: black;
+        background-color: white;
     }
     #magazine .turn-page{
         background-color:#ddd;
@@ -7,4 +7,10 @@
     }
     #curr .col-md-12{
     text-align: justify;
+    }
+    img{
+        display: block;
+        width: 75%;
+        align-content: center;
+        margin: auto;
     }

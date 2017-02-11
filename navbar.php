@@ -25,10 +25,10 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Curriculum<span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="cur-first-year.php">First Year</a></li>
-                <li><a href="#">Second Year</a></li>
-                <li><a href="#">Third Year</a></li>
-                <li><a href="#">Fourth Year</a></li>
-                <li><a href="#">Fifth Year</a></li>
+                <li><a href="cur-second-year.php">Second Year</a></li>
+                <li><a href="cur-third-year.php">Third Year</a></li>
+                <li><a href="cur-fourth-year.php">Fourth Year</a></li>
+                <li><a href="cur-fifth-year.php">Fifth Year</a></li>
               </ul>
             </li>
           </ul>
