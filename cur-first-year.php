@@ -53,7 +53,7 @@
       </nav><hr><hr><br>
     <div class="container">
         <div id="magazine">
-            <div style="background-image:url('img/IMG_2344.JPG');"></div>
+            <div style="background-image:url('img/cpe_cur_y1.png');"></div>
             <div style="background-image:url('img/IMG_2345.JPG');"></div>
             <div style="background-image:url('img/IMG_2346.JPG');"></div>
             <div style="background-image:url('img/IMG_2347.JPG');"></div>

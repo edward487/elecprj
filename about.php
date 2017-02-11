@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-  
+
      
     <script src="vendor/jquery/jquery-3.1.1.js"></script>
     <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
@@ -108,7 +108,9 @@
           </div><br><br><br>
           <div class="col-md-12">
               <?php echo"Computer engineers in this area develop improvements in human–computer interaction, including speech recognition and synthesis, medical and scientific imaging, or communications systems. Other work in this area includes computer vision development such as recognition of human facial features.";?>
-          </div>
+          </div><hr><br><br>    
       </div>
+          <!--footer section-->
+  <?php include'footer.php'?>
   </body>
  </html>
