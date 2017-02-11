@@ -11,7 +11,7 @@
     <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
   </head>
   <body>
-      <?php include 'navbar.php'?><hr><hr><br>
+      <?php include 'navbar.php'?><br><br><br>
       <div class="container">
           <div class="col-md-12">
               <h1><strong>Computer Engineering</strong></h1>

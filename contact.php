@@ -10,7 +10,7 @@
     <script src="js/createaccount.js"></script>
   </head>
   <body>
-      <?php include 'navbar.php'?><hr><br><br><br><br><br><br><br><br>
+      <?php include 'navbar.php'?><br><br><br><br><br><br><br>
     <div class="container">
         <div class="col-md-offset-4">
             <div class="col-md-8">
