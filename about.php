@@ -25,7 +25,7 @@
                   In many institutions, computer engineering students are allowed to choose areas of in-depth study in their junior and senior year, because the full breadth of knowledge used in the design and application of computers is beyond the scope of an undergraduate degree. Other institutions may require engineering students to complete one or two years of General Engineering before declaring computer engineering as their primary focus"; ?>
               </div>
               <div class="col-md-4">
-                  <img src="../electiveprj/img/image1.jpg" class="img-rounded" width="304" height="236">
+                  <img src="../elecprj/img/image1.jpg" class="img-rounded" width="304" height="236">
               </div>
               </div><br><br><br>
               <div class="col-md-4">
