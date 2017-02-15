@@ -6,15 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/login.css">
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="vendor/animate.css-master/animate.min.css">
+
   </head>
   <body>
       <?php include 'navbar.php' ?><br><br>
     <div class="container" style="margin-top:40px">
             <div class="row">
                 <div class="col-sm-6 col-md-4 col-md-offset-4">
-                    <div class="panel panel-default">
+                    <div class="panel panel-default transparent-panel animate animated fadeInDown ">
                         <div class="panel-heading" align="center">
                             <strong> Sign in to our website</strong>
                         </div>
@@ -34,7 +34,7 @@
                                                 <div class="input-group">
                                                     <span class="input-group-addon">
                                                         <i class="glyphicon glyphicon-user"></i>
-                                                    </span> 
+                                                    </span>
                                                     <input class="form-control" placeholder="Username" name="loginname" type="text" autofocus>
                                                 </div>
                                             </div>
@@ -62,4 +62,6 @@
             </div>
         </div>
      </body>
+     <script src="vendor/jquery/jquery.min.js"></script>
+     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 </html>

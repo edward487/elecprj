@@ -1,0 +1,9 @@
+body{
+    background: url('../img/back3_blur.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+p{
+  color: white;
+}

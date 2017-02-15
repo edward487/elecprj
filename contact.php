@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="css/contact.css">
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <script src="js/createaccount.js"></script>
@@ -14,11 +15,13 @@
     <div class="container">
         <div class="col-md-offset-4">
             <div class="col-md-8">
-                <h1><strong>&emsp;&emsp;Contact Us</strong></h1>
+                <h1><p><strong>&emsp;&emsp;Contact Us</strong></p></h1>
             </div>
         </div><hr><br><br>
         <div class="col-md-offset-3 col-md-6">
+        <p>
             <?php echo "JME Inc. is here to provide you with more information, answer any questions you &emsp;&emsp;&emsp;may have and create an effective solutions for your instructional needs";?>
+        </p>
         </div><hr><br>
         <div class="col-md-offset-5">&emsp;&emsp;&nbsp;
              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#contact-form">Click here</button>
@@ -56,10 +59,9 @@
           </div>
         </div>
      </div>
-      
+
     </div>
     </div><br><br><br><br><br><br><br><br><br>
       <?php include'footer.php'?>
   </body>
  </html>
- 

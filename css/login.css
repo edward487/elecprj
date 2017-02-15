@@ -18,7 +18,12 @@
 }
 
 body {
-    background: url(../img/113H.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
+    background: url('../img/back1.jpg');
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:auto;
+}
+
+.transparent-panel{
+  color: rgba(0,0,0,0.5);
 }
