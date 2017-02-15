@@ -50,11 +50,14 @@
 			
 	});
 </script><br><br><br><br>
+      <form id="summary-form" method="post" action="">
       <div class="container">
         <div class="col-md-12">
           <h1><strong>SECOND YEAR CURRICULUM</strong></h1>
         </div><br><br><br><br>
-        <img src="img/cpe_cur_y2.png">
+          <div id="screen-seatplan">
+            <img src="img/cpe_cur_y2.png">
+          </div>
         <div class="row">
             <div class="col-md-4">
                 <h3><strong>COMPUTER FUNDAMENTALS AND PROGRAMMING</strong></h3>
@@ -105,12 +108,20 @@
                 Prerequisite: College Algebra"; ?>
             </div><br><br>           
         </div>
+          <div class="form-inline container-fluid col-sm-6 summary-btn-container" data-html2canvas-ignore="true">
+                <a class="btn btn-default btn-blk summary-btn" role="button" href="reserve.php">Back</a>
+                <button type="submit" class="btn btn-default btn-blk summary-btn" id="confirm-reservation-btn">Reserve</button>
+              </div>
       </div>
     </div>
-    <script src="vendor/jquery/jquery-3.1.1.js"></script>
+      </form>
+    <script src="vendor/jquery/jquery.min.js"></script>
     <script type="text/javascript" src="vendor/turnjs4/lib/turn.min.js"></script>
     <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/navbar.js"></script>
+    <script src="vendor/jspdf/jspdf.min.js"></script>
+    <script src="vendor/jspdf/html2canvas.js"></script>
+    <script src="js/printpdf.js"></script>
   </body>
  </html>
  
