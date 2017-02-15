@@ -123,5 +123,6 @@
     <script src="vendor/jspdf/html2canvas.js"></script>
     <script src="js/printpdf.js"></script>
   </body>
+<?php include "footer.php" ?> 
  </html>
  
