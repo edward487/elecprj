@@ -14,13 +14,13 @@
     <div class="container" style="margin-top:40px">
             <div class="row">
                 <div class="col-sm-6 col-md-4 col-md-offset-4">
-                    <div class="panel panel-default transparent-panel animate animated fadeInDown ">
+                    <div class="animate animated zoomIn blur-bg">
                         <div class="panel-heading" align="center">
-                            <strong> Sign in to our website</strong>
+                            <h4><strong>Sign in to our Website</strong></h4>
                         </div>
-                        <div class="panel-body">
+                        <div class="panel-body ">
                             <form role="form" action="#" method="POST">
-                                <fieldset>
+                                <fieldset class="blur-bg">
                                     <div class="row">
                                         <div class="center-block">
                                             <!--Logo natin ang ilalagay dito-->
@@ -54,7 +54,7 @@
                                 </fieldset>
                             </form>
                         </div>
-                        <div class="panel-footer" align="center">
+                        <div align="center" class="bottom-footer">
                             Don't have an account? <a href="createaccount.php" onClick=""> Sign Up Here </a>
                         </div>
                     </div>

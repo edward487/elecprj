@@ -15,7 +15,7 @@
   </head>
   <body>
        <?php include 'navbar.php'?><br><br><br>
-      <div class="container">
+      <div class="container text-bg">
           <div class="panel-heading col-md-offset-4">
               <h1><strong>&emsp;&nbsp;Create Account</strong></h1>
           </div>
@@ -88,6 +88,5 @@
           </form>
           </div>
       </div><br><br><br>
-          <?php include'footer.php'?>
   </body>
   </html>

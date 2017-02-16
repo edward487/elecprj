@@ -121,6 +121,6 @@
     <script type="text/javascript" src="js/navbar.js"></script>
     <script type="text/javascript" src="vendor/turnjs4/lib/turn.min.js"></script>
   </body>
-    <?php include "footer.php" ?> 
+  
  </html>
  

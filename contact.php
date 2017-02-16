@@ -17,12 +17,12 @@
             <div class="col-md-8">
                 <h1><p><strong>&emsp;&emsp;Contact Us</strong></p></h1>
             </div>
-        </div><hr><br><br>
+        </div><br><br><br>
         <div class="col-md-offset-3 col-md-6">
         <p>
             <?php echo "JME Inc. is here to provide you with more information, answer any questions you &emsp;&emsp;&emsp;may have and create an effective solutions for your instructional needs";?>
         </p>
-        </div><hr><br>
+        </div><br><br><br>
         <div class="col-md-offset-5">&emsp;&emsp;&nbsp;
              <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#contact-form">Click here</button>
         </div>
