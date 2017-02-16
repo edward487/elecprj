@@ -1,6 +1,7 @@
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="css/navbar.css">
-    
+
+
 <!-- Fixed navbar -->
     <nav class="navbar">
         <div class="navbar-inner">
@@ -22,7 +23,7 @@
             <li><a href="#trends">Trends</a></li>
             <li><a href="#faculty">Faculty</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Curriculum<span class="caret"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Curriculum<span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="cur-first-year.php">First Year</a></li>
                 <li><a href="cur-second-year.php">Second Year</a></li>

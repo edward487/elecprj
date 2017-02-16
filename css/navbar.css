@@ -7,19 +7,27 @@
         color: aliceblue;
         background-color: transparent;
 }
-.navbar>.container .navbar-brand-centered, 
+.navbar>.container .navbar-brand-centered,
 .navbar>.container-fluid .navbar-brand-centered {
         margin-left: -80px;
 }
 .nav.navbar-nav li a{
         color: aliceblue;
-        font-family: "Serif";
+        font-family: Oswald;
         font-size: 1.3em !important;
 }
 .nav.navbar-nav > li > a:hover, .nav.navbar-nav > li > a:focus {
-        background-color: #FF9933;
+        color: #FF9933;
         text-decoration: none;
+        background-color: rgba(0, 0, 0, 0);
 }
-.dropdown li a{
-    background-color: orange;
+.dropdown .dropdown-menu li a{
+    color: white ;
+    text-decoration: none;
+    background-color: black;
+
 }
+.dropdown .dropdown-menu li a:hover{
+    color: #FF9933;
+    text-decoration: none;
+    background-color: black;
