@@ -1,11 +1,18 @@
 body{
     text-align: justify;
+    cursor: url('../img/Cursor.png');
     color: #A0A0A0;
     background: url('../img/about.jpg');
+}
+a:hover {
+  cursor: url('../img/Cursor.png'); 
 }
 strong {
     color:aqua;
 }
 p {
   color:whitesmoke;  
+}
+body {
+   
 }

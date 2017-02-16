@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/about.css">
+    <link rel="stylesheet" href="vendor/animate.css-master/animate.min.css">
   </head>
   <body>
       <div class="container">
@@ -23,7 +24,7 @@
                   </p>
               </div>
               <div class="col-md-4">
-                  <img src="../elecprj/img/image1.jpg" class="img-rounded" width="304" height="236">
+                  <img src="../elecprj/img/image1.jpg" class="img-rounded animate animated lightSpeedIn" width="304" height="236">
               </div>
               </div><br><br><br>
               <div class="col-md-12">
