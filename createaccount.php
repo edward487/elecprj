@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrapValidator.min.css">
     <link rel="stylesheet" href="css/createaccount.css">
+    <link rel="stylesheet" href="vendor/animate.css-master/animate.min.css">
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrapValidator.min.js"></script>
@@ -15,12 +16,13 @@
   </head>
   <body>
        <?php include 'navbar.php'?><br><br><br>
-      <div class="container text-bg">
+      <div class="container ">
+      <div class="text-bg animate animated fadeIn">
           <div class="panel-heading col-md-offset-4">
               <h1><strong>&emsp;&nbsp;Create Account</strong></h1>
           </div>
-          <div class="panel-body">
           <form method="post" action="" id="createaccount">
+              <div class="panel-body">
               <div class="col-md-offset-4">
                   <div class="col-md-8">
                       <div class="form-group">
@@ -85,8 +87,9 @@
                       </div>
                   </div>
               </div>
+            </div>
           </form>
-          </div>
+        </div>
       </div><br><br><br>
   </body>
   </html>

@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/login.css">
     <link rel="stylesheet" href="vendor/animate.css-master/animate.min.css">
-
   </head>
   <body>
       <?php include 'navbar.php' ?><br><br>

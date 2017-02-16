@@ -22,16 +22,16 @@
         background-color: rgba(0, 0, 0, 0);
 }
 .dropdown .dropdown-menu li a{
-    color: white ;
-    text-decoration: none;
-    background-color: rgba(0,0,0,0.5);
+        color: white ;
+        text-decoration: none;
+        background-color: rgba(0,0,0,0.5);
 
 }
 .dropdown .dropdown-menu li a:hover{
-    color: #FF9933;
-    text-decoration: none;
-    background-color: rgba(0,0,0,0);
+        color: #FF9933;
+        text-decoration: none;
+        background-color: rgba(0,0,0,0);
 }
 .dropdown .dropdown-menu{
-    background-color: rgba(0,0,0,0.5);
+        background-color: rgba(0,0,0,0.5);
 }
