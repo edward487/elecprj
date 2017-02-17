@@ -1,5 +1,9 @@
 body{
-    background: url('../img/home.jpg');
-    background-repeat:no-repeat;
-    width: auto;
+    background: url('../img/back5.jpg');
+    background-size: cover;
+    
+}
+strong {
+   color: aqua; 
+   font-family: Transformers movie;
 }

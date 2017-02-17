@@ -1,4 +1,5 @@
- <!DOCTYPE html>
+<?php include 'navbar.php'?> 
+<!DOCTYPE html>
   <html lang="en">
   <head>
     <title>Create Account</title>
@@ -8,8 +9,11 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-      <?php include 'navbar.php'?>
       <div class="container">
+          <div align="center">
+              <h1><strong>COMPUTER ENGINEERING</strong></h1>
+          </div>
+          
       </div> 
   </body>
     <script src="vendor/jquery/jquery.min.js"></script>

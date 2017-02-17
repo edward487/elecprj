@@ -7,9 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="css/contact.css">
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script src="js/createaccount.js"></script>
+ 
   </head>
   <body>
      <br><br><br><br><br><br><br>
@@ -64,5 +62,8 @@
     </div>
     </div><br><br><br><br><br><br><br><br><br><br><br><Br>
   </body>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/createaccount.js"></script>
  </html>
 <?php include'footer.php'?>

@@ -20,7 +20,7 @@
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
             <li><a href="contact.php">Contact</a></li>
-            <li><a href="#trends">Trends</a></li>
+            <li><a href="#trends">Activities</a></li>
             <li><a href="#faculty">Faculty</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Curriculum<span class="caret"></span></a>
