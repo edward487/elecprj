@@ -1,4 +1,5 @@
- <!DOCTYPE html>
+ <?php include 'navbar.php'?> 
+<!DOCTYPE html>
   <html lang="en">
   <head>
     <title>Create Account</title>
@@ -11,7 +12,7 @@
     <script src="js/createaccount.js"></script>
   </head>
   <body>
-      <?php include 'navbar.php'?><br><br><br><br><br><br><br>
+     <br><br><br><br><br><br><br>
     <div class="container">
         <div class="col-md-offset-4">
             <div class="col-md-8">
@@ -24,7 +25,7 @@
         </p>
         </div><br><br><br>
         <div class="col-md-offset-5">&emsp;&emsp;&nbsp;
-             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#contact-form">Click here</button>
+             <button type="button" class="btn btn-success" data-toggle="modal" data-target="#contact-form">Click here</button>
         </div>
         <!-- Modal -->
       <div class="modal fade" id="contact-form" role="dialog">
@@ -61,7 +62,7 @@
      </div>
 
     </div>
-    </div><br><br><br><br><br><br><br><br><br>
-      <?php include'footer.php'?>
+    </div><br><br><br><br><br><br><br><br><br><br><br><Br>
   </body>
  </html>
+<?php include'footer.php'?>

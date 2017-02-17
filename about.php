@@ -30,14 +30,14 @@
               <div class="col-md-12">
                   <h2><strong>History</strong></h2>
               </div><br><br><br><br>
-              <div class="col-md-12">
+              <div class="col-md-10">
                   <p> The first computer engineering degree program in the United States was established at Case Western Reserve University in 1972. As of 2015, there were 238 ABET-accredited computer engineering programs in the US. In Europe, accreditation of computer engineering schools is done by a variety of agencies part of the EQANIE network. Due to increasing job requirements for engineers who can concurrently design hardware, software, firmware, and manage all forms of computer systems used in industry, some tertiary institutions around the world offer a bachelor's degree generally called computer engineering. Both computer engineering and electronic engineering programs include analog and digital circuit design in their curriculum. As with most engineering disciplines, having a sound knowledge of mathematics and science is necessary for computer engineers.
                   </p>
               </div><br><br><br><br>  
-             <div class="col-md-12">
+             <div class="col-md-10">
                   <h2><strong>Computer Software Engineering</strong></h2>
              </div><br><br><br><br>
-             <div class="col-md-12">
+             <div class="col-md-10">
                  <p>Computer software engineers develop, design, and test software. Some software engineers design, construct, and maintain computer programs for companies. Some set up networks such as intranets for companies. Others make or install new software or upgrade computer systems. Computer software engineers can also work in application design. This involves designing or coding new programs and applications to meet the needs of a business or individual. Computer software engineers can also work as freelancers and sell their software products/applications to an enterprise/individual.
                  </p>
              </div><br><br><br><br>   
