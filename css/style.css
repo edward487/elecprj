@@ -1,6 +1,7 @@
 body{
     background: url('../img/back5.jpg');
-    background-size: cover;
+    background-size: 1380px 700px;
+    background-repeat: no-repeat;
     
 }
 strong {
