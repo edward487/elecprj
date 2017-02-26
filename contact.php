@@ -30,7 +30,7 @@
         <div class="modal-dialog">
 
           <!-- Modal content-->
-          <div class="modal-content">
+          <div class="modal-content modal-md">
             <div class="modal-header" align="center">
               <button type="button" class="close" data-dismiss="modal">&times;</button>
               <h4 class="modal-title"><strong>Feel free to message us</strong></h4>
@@ -38,15 +38,18 @@
             <div class="modal-body">
                 <form method="post" action="">
                     <div class="form-group form-inline">
-                        <div align="center">
-                            <label>First Name:</label>
+                        <div class="col-md-offset-3">
+                            <label><strong>&emsp;&emsp;&emsp;&emsp;We like to recieve a messages.</strong></label><br><br>
+                            <label><span class="glyphicon glyphicon-user"></span>&emsp;Your Name:</label>
                             <input type="text" class="form-control" placeholder="Enter your name"><br><br>
-                            <label>Last Name:</label>
-                            <input type="text" class="form-control" placeholder="Enter your surname">
-                        </div><br><br>
+                            <label><span class="glyphicon glyphicon-envelope"></span>&emsp;Your Email:</label>
+                            <input type="text" class="form-control" placeholder="Enter your email"><br><br>
+                            <label><span class="glyphicon glyphicon-tag"></span>&emsp;Subject:</label>&emsp;&nbsp;
+                            <input type="text" class="form-control" placeholder="Subject">
+                        </div><br>
                         <div class="col-md-offset-3">
                             <label>Message</label><br>
-                            <textarea cols="37" rows="8" placeholder="Enter your comment here"></textarea>
+                            <textarea cols="40" rows="8" placeholder="Enter your comment here"></textarea>
                         </div>
                     </div>
                 </form>
