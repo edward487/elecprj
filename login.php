@@ -36,7 +36,7 @@
                                                         <input class="blur-textbox" placeholder="Password" name="password" type="password" value="">
                                                 </div>
                                                 <div class="form-group">
-                                                    <input type="submit" class="blur-login btn-block" value="Log in">
+                                                    <button type="button" class="blur-login btn-block"><strong>Login</strong></button>
                                                 </div>
                                             </div>
                                         </div>

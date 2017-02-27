@@ -1,12 +1,9 @@
 body{
-    background: url('../img/back3_blur.jpg');
+    background: url('../img/contact.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: auto;
+    background-size: cover;
 }
 p{
-  color: white;
-}
-div .modal-content{
-    background-color: gray;
+  color: whitesmoke;
 }

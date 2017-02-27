@@ -19,7 +19,7 @@
         </div><br><br><br>
         <div class="col-md-offset-3 col-md-6">
         <p>
-            <?php echo "JME Inc. is here to provide you with more information, answer any questions you &emsp;&emsp;&emsp;may have and create an effective solutions for your instructional needs";?>
+            JME Inc. is here to provide you with more information, answers any questions you &emsp;&emsp;&emsp;may have and create an effective solutions for your instructional needs
         </p>
         </div><br><br><br>
         <div class="col-md-offset-5">&emsp;&emsp;&nbsp;
@@ -61,12 +61,11 @@
           </div>
         </div>
      </div>
-
     </div>
     </div><br><br><br><br><br><br><br><br><br><br><br><Br>
   </body>
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <script src="js/createaccount.js"></script>
- </html>
+</html>
 <?php include'footer.php'?>
