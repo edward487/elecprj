@@ -13,7 +13,7 @@
 }
 .nav.navbar-nav li a{
         color: aliceblue;
-        font-family: Oswald;
+        font-family: 'Oswald', sans-serif;
         font-size: 1.3em !important;
 }
 .nav.navbar-nav > li > a:hover, .nav.navbar-nav > li > a:focus {
