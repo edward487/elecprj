@@ -16,7 +16,7 @@
           <div class="row position1">
              <div id="gallery-carousel" class="content-section text-center">
                   <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Gallery</h2>
+                    <h2><strong>Gallery</strong></h2>
                   </div>
                   <div id="myCarousel" class="carousel slide" data-ride="carousel">
                     <!-- Indicators -->

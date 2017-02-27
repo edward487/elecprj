@@ -1,16 +1,33 @@
-    body{
-        background-color: white;
-    }
-    #magazine .turn-page{
-        background-color:#ddd;
-        background-size:100% 50%;
-    }
-    #curr .col-md-12{
+#magazine .turn-page{
+    background-color:#ddd;
+    background-size:100% 50%;
+}
+#curr .col-md-12{
     text-align: justify;
-    }
-    img{
-        display: block;
-        width: 75%;
-        align-content: center;
-        margin: auto;
-    }
+}
+img{
+    display: block;
+    width: 75%;
+    align-content: center;
+    margin: auto;
+}
+strong {
+    color: aqua;
+}
+body {
+    background: url('../img/back7.png');
+    background-attachment: fixed;
+}
+p {
+    color: whitesmoke;
+}
+p.ridge {
+    border-style: ridge;
+    border-width: 3px; 
+    text-shadow:0 1px 1px rgba(0,0,0,.6);
+    transition: box-shadow .5s ease;
+    border-color: aqua; 
+    padding: 10px;
+    background: rgba(0,0,0,0.7);
+}
+      

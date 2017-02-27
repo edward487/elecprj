@@ -1,8 +1,8 @@
 body{
     background: url('../img/back5.jpg');
-    background-size: 1380px 700px;
+    background-size: cover;
     background-repeat: no-repeat;
-
+    background-attachment: fixed;
 }
 .position1{
     margin-top: 500px;
@@ -13,7 +13,10 @@ body{
 }
 strong {
    color: aqua;
-   font-family: Transformers movie;
+   font-family: Transformers;
+}
+h1 strong{
+    font-size: 70px;
 }
 .content-section {
   padding-top: 50px;
