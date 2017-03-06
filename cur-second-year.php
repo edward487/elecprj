@@ -8,76 +8,386 @@
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/cur.css">      
   </head>
-  <style>
-   strong {
-         color: aqua;
-   }
-   body {
-         background: url('img/back7.png');
-         background-attachment: fixed;
-   }
-   p {
-         color: whitesmoke;
-   }
-   p.ridge {
-         border-style: ridge;
-         border-width: 3px; 
-         text-shadow:0 1px 1px rgba(0,0,0,.6);
-         transition: box-shadow .5s ease;
-         border-color: aqua; 
-         padding: 10px;
-         background: rgba(0,0,0,0.7);
-   } 
-  </style>
   <body>
-    <div class="container">
-        <div id="magazine">
-            <div style="background-image:url('img/IMG_2344.JPG');"></div>
-            <div style="background-image:url('img/IMG_2345.JPG');"></div>
-            <div style="background-image:url('img/IMG_2346.JPG');"></div>
-            <div style="background-image:url('img/IMG_2347.JPG');"></div>
-            <div style="background-image:url('img/IMG_2348.JPG');"></div>
-            <div style="background-image:url('img/IMG_2348.JPG');"></div>
-        </div>
-    </div>
-<script>
-    	$(window).ready(function() {
-		$('#magazine').turn({
-							display: 'double',
-							acceleration: true,
-                            width: 400,
-                            height: 300,
-                            autoCenter: true,
-							gradients: !$.isTouch,
-							elevation:50,
-							when: {
-								turned: function(e, page) {
-									console.log('Current view: ', $(this).turn('view'));
-								}
-							}
-                                });
-
-
-	});
-	
-	
-	$(window).bind('keydown', function(e){
-		
-		if (e.keyCode==37)
-			$('#magazine').turn('previous');
-		else if (e.keyCode==39)
-			$('#magazine').turn('next');
-			
-	});
-</script><br><br><br><br>
-      <form id="summary-form" method="post" action="">
+<br><br><br><br>
       <div class="container">
         <div class="col-md-12">
-          <h1><strong>SECOND YEAR CURRICULUM</strong></h1>
+          <h1 style="font-family: Transformers;"><strong>SECOND YEAR CURRICULUM</strong></h1>
         </div><br><br><br><br><br><br><br>
-          <div id="screen-seatplan">
-            <img src="img/cpe_cur_y2.png"><br><br><br>
-          </div>
+          <div class="row">
+                <div class="title-bg">
+                    <div class="panel-heading">
+                        <h2 align="center">GWA Generator<br><h4 align="center">1rst Sem</h4></h2>
+                    </div>
+                    <table class="table">
+                        <thead align="center">
+                            <tr>
+                                <th>Subject Code</th>
+                                <th>Description</th>
+                                <th>Number of Units</th>
+                                <th>Grade</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>MAT06</td>
+                                <td>Differential Calculus</td>
+                                <td>4</td>
+                                <td><select class="select-value one3 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>PHY01A</td>
+                                <td>Engineering Physics 1</td>
+                                <td>3</td>
+                                <td><select class="select-value two3 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>PHY01AL</td>
+                                <td>Engineering Physics (Lab)</td>
+                                <td>1</td>
+                                <td><select class="select-value three3 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>ENG02A</td>
+                                <td>Technical Writing</td>
+                                <td>3</td>
+                                <td><select class="select-value four3 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>SSC03</td>
+                                <td>Life And Works Of Rizal And Other Heroes</td>
+                                <td>3</td>
+                                <td><select class="select-value five3 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>SSC05</td>
+                                <td>Principles Of Economics W/ Land Reform And Taxation</td>
+                                <td>3</td>
+                                <td><select class="select-value six3 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>HUM02</td>
+                                <td>Philosophical Ethics</td>
+                                <td>3</td>
+                                <td><select class="select-value seven3 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>PED03</td>
+                                <td>Individual/Dual Sports</td>
+                                <td>2</td>
+                                <<td><select class="select-value eight3 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td style="padding-top:18px;"><strong><span class="pull-right">22</span></strong</td>
+                                <td style="padding-top:18px;"><strong>Units<span class="pull-right">GWA:</span></strong></td>
+                                <td><input type="number" placeholder="Average" id="GWA3" class="blur-textbox"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+          <br><br><br>
+      <div class="row">
+                <div class="title-bg">
+                    <div class="panel-heading">
+                        <h2 align="center">GWA Generator<br><h4 align="center">2nd Sem</h4></h2>
+                    </div>
+                    <table class="table">
+                        <thead align="center">
+                            <tr>
+                                <th>Subject Code</th>
+                                <th>Description</th>
+                                <th>Number of Units</th>
+                                <th>Grade</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>MAT09A</td>
+                                <td>Probability And Statistics</td>
+                                <td>3</td>
+                                <td><select class="select-value one4 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>PHY02A</td>
+                                <td>Engineering Physics 2</td>
+                                <td>3</td>
+                                <td><select class="select-value two4 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>PHY02AL</td>
+                                <td>Engineering Physics 2 (Lab)</td>
+                                <td>1</td>
+                                <td><select class="select-value three4 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>MAT07</td>
+                                <td>Integral Calculus</td>
+                                <td>4</td>
+                                <td><select class="select-value four4 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>COM01</td>
+                                <td>Computer Fundamentals And Programming</td>
+                                <td>2</td>
+                                <td><select class="select-value five4 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>ENG03A</td>
+                                <td>Technical Communication</td>
+                                <td>3</td>
+                                <td><select class="select-value six4 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>SSC02</td>
+                                <td>Socio-Anthropology W/ Family Planning And HIV-AIDS</td>
+                                <td>3</td>
+                                <td><select class="select-value seven4 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>SSC06</td>
+                                <td>Principles Of Government And Politics W/ Economics</td>
+                                <td>3</td>
+                                <<td><select class="select-value eight4 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>PED03</td>
+                                <td>Team Sports</td>
+                                <td>2</td>
+                                <td><select class="select-value nine4 blur-textbox">
+                                        <option value="1.00">1.00</option>
+                                        <option value="1.25">1.25</option>
+                                        <option value="1.50">1.50</option>
+                                        <option value="1.75">1.75</option>
+                                        <option value="2.00">2.00</option>
+                                        <option value="2.25">2.25</option>
+                                        <option value="2.50">2.50</option>
+                                        <option value="2.75">2.75</option>
+                                        <option value="3.00">3.00</option>
+                                        <option value="4.00">4.00</option>
+                                        <option value="5.00">5.00</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td style="padding-top:18px;"><strong><span class="pull-right">24</span></strong</td>
+                                <td style="padding-top:18px;"><strong>Units<span class="pull-right">GWA:</span></strong></td>
+                                <td><input type="number" placeholder="Average" id="GWA4" class="blur-textbox"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div><br><br><br>
         <div class="row">
             <div class="col-md-12">
                 <h3><strong>COMPUTER FUNDAMENTALS AND PROGRAMMING</strong></h3>
@@ -140,6 +450,7 @@
     <script src="vendor/jquery/jquery.min.js"></script>
     <script type="text/javascript" src="vendor/turnjs4/lib/turn.min.js"></script>
     <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/cur.js"></script>
   </body>
  </html>
  
