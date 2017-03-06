@@ -7,3 +7,14 @@ body{
 p{
   color: whitesmoke;
 }
+
+.center-block{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.contact-main-text{
+    color: whitesmoke;
+    text-align: center;
+}

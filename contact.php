@@ -1,4 +1,4 @@
- <?php include 'navbar.php'?> 
+ <?php include 'navbar.php'?>
 <!DOCTYPE html>
   <html lang="en">
   <head>
@@ -7,19 +7,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="css/contact.css">
- 
+
   </head>
   <body>
      <br><br><br><br><br><br><br>
     <div class="container">
         <div class="col-md-offset-4">
             <div class="col-md-8">
-                <h1><p><strong>&emsp;&emsp;Contact Us</strong></p></h1>
+                <h1><p class="contact-main-text"><strong>Contact Us</strong></p></h1>
             </div>
         </div><br><br><br>
         <div class="col-md-offset-3 col-md-6">
-        <p>
-            JME Inc. is here to provide you with more information, answers any questions you &emsp;&emsp;&emsp;may have and create an effective solutions for your instructional needs
+        <p class="contact-main-text">
+            JME Inc. is here to provide you with more information, answers any questions you may have and create an effective solutions for your instructional needs
         </p>
         </div><br><br><br>
         <div class="col-md-offset-5">&emsp;&emsp;&nbsp;
