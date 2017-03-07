@@ -9,7 +9,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-4 col-sm-6 footerleft ">
-        <div class="logofooter"> Logo</div>
+        <div class="logofooter"><img src="img/logo.png" style="width: 100px; height: 100px; margin-left: 80px; margin-top: -40px;"></div>
         <p>JME gives you information regarding the subjects, activities and guidelines of how to be a Computer Engineer. JME will serve as your alternative user manual and it will show you how fun to become a Computer Engineering student.</p>
         <p><i class="fa fa-map-pin"></i> Southern Luzon State University Brgy. Kulapi,&emsp;&emsp;&emsp;&nbsp;&emsp;&nbsp; Lucban,4328 Quezon  -        Philippines</p>
         <p><i class="fa fa-phone"></i> Phone (Philippines) : +63 9493649678<br>&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;+63 9984870382<br>&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;+63 9275538367</p>
