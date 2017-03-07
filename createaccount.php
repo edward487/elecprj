@@ -74,7 +74,6 @@
                                           <option></option>
                                           <option>BSCpE-I</option>
                                           <option>BSCpE-II</option>
-                                          <option>BSCpE-II</option>
                                           <option>BSCpE-III</option>
                                           <option>BSCpE-IV</option>
                                           <option>BSCpE-V</option>
