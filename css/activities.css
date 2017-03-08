@@ -1,0 +1,47 @@
+body .col-md-12{
+    text-align: justify;
+}
+strong {
+    color: aqua;
+}
+body {
+    background: url('../img/back7.png');
+    background-attachment: fixed;
+}
+p {
+    color: whitesmoke;
+}
+p.ridge {
+    border-style: ridge;
+    border-width: .5px; 
+    text-shadow:0 1px 1px rgba(0,0,0,.6);
+    transition: box-shadow .5s ease;
+    border-color: aqua; 
+    padding: 10px;
+    background: rgba(0,0,0,0.7);
+}
+h2, h4 {
+   color: aqua;
+}
+.title-bg{
+    border-style: ridge;
+    border-color: aqua; 
+    padding: 10px;
+    background: rgba(0,0,0,0.8);
+}    
+option{
+    color: black;
+}
+td,th {
+    color: whitesmoke;
+}
+.blur-textbox{
+  padding: 10px;
+  background-color: rgba(0,0,0,0.5);
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: whitesmoke;
+  text-shadow:0 1px 1px rgba(0,0,0,.6);
+  transition: box-shadow .5s ease;
+}
