@@ -8,7 +8,8 @@
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/cur.css">
   </head>
-  <body
+  <body>
+      <br><br><br><br>
       <div class="container">
         <div class="col-md-12">
           <h1 style="font-family: Transformers;"><strong>FIRST YEAR CURRICULUM</strong></h1>

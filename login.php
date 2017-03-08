@@ -23,8 +23,7 @@
                                         <div class="row">
                                             <div class="center-block">
                                                 <!--Logo natin ang ilalagay dito-->
-                                                <img class="profile-img"
-                                                    src="https://lh5.googleusercontent.com/-b0-k99FZlyE/AAAAAAAAAAI/AAAAAAAAAAA/eu7opA4byxI/photo.jpg?sz=120" alt="">
+                                                <img src="img/logo.png" style="width: 100px; height: 100px; margin-left: 120px; margin-bottom: 40px;" alt="">
                                             </div>
                                         </div>
                                         <div class="row">
