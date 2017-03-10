@@ -13,23 +13,23 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php"><img src="img/logo.png" style="width: 70px; height: 65px; margin-top: -12px;"></a>
+          <a class="navbar-brand" href="/elecprj/"><img src="img/logo.png" style="width: 70px; height: 65px; margin-top: -12px;"></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About</a></li>
-            <li><a href="contact.php">Contact</a></li>
-            <li><a href="activities.php">Academic Policies</a></li>
-            <li><a href="job.php">Job Oppurtunities</a></li>
+            <li><a href="/elecprj/">Home</a></li>
+            <li><a href="about">About</a></li>
+            <li><a href="contact">Contact</a></li>
+            <li><a href="academic-policies">Academic Policies</a></li>
+            <li><a href="job">Job Oppurtunities</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Curriculum<span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="cur-first-year.php">First Year</a></li>
-                <li><a href="cur-second-year.php">Second Year</a></li>
-                <li><a href="cur-third-year.php">Third Year</a></li>
-                <li><a href="cur-fourth-year.php">Fourth Year</a></li>
-                <li><a href="cur-fifth-year.php">Fifth Year</a></li>
+                <li><a href="cur-first-year">First Year</a></li>
+                <li><a href="cur-second-year">Second Year</a></li>
+                <li><a href="cur-third-year">Third Year</a></li>
+                <li><a href="cur-fourth-year">Fourth Year</a></li>
+                <li><a href="cur-fifth-year">Fifth Year</a></li>
               </ul>
             </li>
           </ul>

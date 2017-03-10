@@ -90,5 +90,6 @@
     <script src="vendor/bootstrap/js/bootstrapValidator.min.js"></script>
     <script src="js/createaccount.js"></script>
     <script src='https://www.google.com/recaptcha/api.js'></script>
+    <?php include "footer.php" ?>
   </body>
   </html>

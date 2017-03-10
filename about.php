@@ -48,7 +48,7 @@
                  <p class="ridge"> Most computer hardware engineers research, develop, design, and test various computer equipment. This can range from circuit boards and microprocessors to routers. Some update existing computer equipment to be more efficient and work with newer software. Most computer hardware engineers work in research laboratories and high-tech manufacturing firms. Some also work for the federal government. According to BLS, 95% of computer hardware engineers work in metropolitan areas.[citation needed] They generally work full-time. Approximately 33% of their work requires more than 40 hours a week. The median salary for employed qualified computer hardware engineers (2012) was $100,920 per year or $48.52 per hour. Computer hardware engineers held 83,300 jobs in 2012 in the USA
                  </p>
              </div><br><br><br><br><br><br><br><br><br><br>
-          <div class="col-md-offset-4">
+          <div class="col-md-offset-5">
               <h1><strong>Specialty Areas</strong></h1>
           </div><br><br>    
           <div class="col-md-12">

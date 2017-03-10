@@ -53,11 +53,11 @@
     </div>
     <div class="col-md-6">
       <ul class="bottom_ul">
-        <li><a href="index.php">JME.com</a></li>
-        <li><a href="about.php">About</a></li>
-        <li><a href="contact.php">Contact us</a></li>
-        <li><a href="#">Job Oppurtunities</a></li>
-        <li><a href="#">Academic Policies</a></li>
+        <li><a href="/elecprj/">JME.com</a></li>
+        <li><a href="about">About</a></li>
+        <li><a href="contact">Contact us</a></li>
+        <li><a href="job">Job Oppurtunities</a></li>
+        <li><a href="academic-policies">Academic Policies</a></li>
       </ul>
     </div>
   </div>
