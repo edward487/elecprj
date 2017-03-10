@@ -20,8 +20,8 @@
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
             <li><a href="contact.php">Contact</a></li>
-            <li><a href="activities.php">Activities</a></li>
-            <li><a href="#faculty">Faculty</a></li>
+            <li><a href="activities.php">Academic Policies</a></li>
+            <li><a href="job.php">Job Oppurtunities</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Curriculum<span class="caret"></span></a>
               <ul class="dropdown-menu">
@@ -41,7 +41,7 @@
       </div>
         </div>
     </nav>
-        <audio autoplay loop>
+        <audio autoplay>
           <source src="../elecprj/audio/epic.mp3" type="audio/mpeg">
         </audio>
     <script src="vendor/jquery/jquery.min.js"></script>

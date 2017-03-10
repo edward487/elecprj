@@ -1,10 +1,15 @@
 $(window).ready(function () {
 var validator = $('#createaccount').bootstrapValidator({
-  	feedbackIcons : {
+  	framework: 'bootstrap',
+    feedbackIcons : {
       valid: 'glyphicon glyphicon-ok',
       invalid: 'glyphicon glyphicon-remove',
       validating: 'glyphicon glyphicon-refresh'
     },
+       row: {
+            valid: 'field-success',
+            invalid: 'field-error'
+        },
       //validations
     fields : {
       email : {

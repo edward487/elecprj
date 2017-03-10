@@ -12,9 +12,9 @@
   <body>
      <br><br><br><br><br><br><br>
     <div class="container">
-        <div class="col-md-offset-4">
+        <div class="col-md-offset-3">
             <div class="col-md-8">
-                <h1><p class="contact-main-text"><strong>&emsp;&nbsp;&nbsp;&nbsp;Contact Us</strong></p></h1>
+                <h1><p class="contact-main-text"><strong>Contact Us</strong></p></h1>
             </div>
         </div><br><br><br>
         <div class="col-md-offset-3 col-md-6">
