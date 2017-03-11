@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrapValidator.min.css">
     <link rel="stylesheet" href="css/createaccount.css">
     <link rel="stylesheet" href="vendor/animate.css-master/animate.min.css">
+
   </head>
   <body>
        <?php include 'navbar.php'?><br><br><br>
@@ -85,11 +86,12 @@
               </form>
             </div>
       </div><br><br><br>
+    <?php include "footer.php" ?>
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrapValidator.min.js"></script>
     <script src="js/createaccount.js"></script>
     <script src='https://www.google.com/recaptcha/api.js'></script>
-    <?php include "footer.php" ?>
   </body>
   </html>
+
