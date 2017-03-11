@@ -34,8 +34,8 @@
             </li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="createaccount.php">Sign up</a></li>
-            <li><a href="login.php">Log in</a></li>
+            <li><a href="createaccount">Sign up</a></li>
+            <li><a href="login">Log in</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>

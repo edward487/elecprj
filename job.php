@@ -57,7 +57,7 @@
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                     <div class="modal-header blur">
-                                        <h5 class="modal-title" id="programmer"> 
+                                        <h5 class="modal-title" id="circuitDesignLabel"> 
                                             CIRCUIT DESIGN
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -86,7 +86,7 @@
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                     <div class="modal-header blur">
-                                        <h5 class="modal-title" id="programmer"> 
+                                        <h5 class="modal-title" id="computerDesignLabel"> 
                                             COMPUTER DESIGN
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -205,8 +205,42 @@
                 </div>
                 <!-- End of right job opportunities grid -->
             </div>
-        </div>
+        </div><br><br>
         <!-- End of row -->
-    </div>
+        <div class="row">
+            <div class="col-md-6">
+                    <div class="col-md-6" align="center">
+                        <h4><strong>HARDWARE DESIGN</strong></h4>
+                        <img src="img/job10.jpg" height="150px" width="250px">
+                        <br><br><br>
+                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#hardwareDesign">SEE MORE</button>
+                        <div class="modal fade" id="hardwareDesign" tabindex="-1" role="dialog" aria-labelledby="hardwareDesign" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header blur">
+                                        <h5 class="modal-title" id="hardwareDesignLabel"> 
+                                            HARDWARE DESIGN
+                                        </h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body blur-body">
+                                    <p align="justify">
+                                        &emsp;&emsp;&emsp;
+                                        Hardware design engineers can generally be viewed as electronic engineers, except they work specifically with computers. They are responsible for researching, designing, developing, testing, and installing computer hardware on systems. This includes computer chips, computer systems, circuits, and modems.
+                                    </p>
+                                </div>
+                                <div class="modal-footer blur">
+                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div><br><br><br><br>
+
 </body>
 </html>
