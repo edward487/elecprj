@@ -31,41 +31,40 @@
 
           <!-- Modal content-->
           <div class="modal-content modal-md">
-            <div class="modal-header" align="center">
-              <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <div class="modal-header blur" align="center">
+              <button type="button" class="close" data-dismiss="modal"><strong>&times;</strong></button>
               <h4 class="modal-title"><strong>Feel free to message us</strong></h4>
             </div>
-            <div class="modal-body">
+            <div class="modal-body blur-body">
                 <form method="post" action="">
                     <div class="form-group form-inline">
                         <div class="col-md-offset-3">
-                            <label><strong>&emsp;&emsp;&emsp;&emsp;We like to recieve a messages.</strong></label><br><br>
-                            <label><span class="glyphicon glyphicon-user"></span>&emsp;Your Name:</label>
-                            <input type="text" class="form-control" placeholder="Enter your name"><br><br>
-                            <label><span class="glyphicon glyphicon-envelope"></span>&emsp;Your Email:</label>
-                            <input type="text" class="form-control" placeholder="Enter your email"><br><br>
-                            <label><span class="glyphicon glyphicon-tag"></span>&emsp;Subject:</label>&emsp;&nbsp;
-                            <input type="text" class="form-control" placeholder="Subject">
+                            <br><br>
+                            <label><span class="glyphicon glyphicon-user"></span><strong>&emsp;Your Name:</strong></label>
+                            <input type="text" class="blur-textbox" placeholder="Enter your name"><br><br>
+                            <label><span class="glyphicon glyphicon-envelope"></span><Strong>&emsp;Your Email:</Strong></label>
+                            <input type="text" class="blur-textbox" placeholder="Enter your email"><br><br>
+                            <label><span class="glyphicon glyphicon-tag"></span><strong>&emsp;Subject:</strong></label>&emsp;&nbsp;
+                            <input type="text" class="blur-textbox" placeholder="Subject">
                         </div><br>
                         <div class="col-md-offset-3">
                             <label>Message</label><br>
-                            <textarea cols="40" rows="8" placeholder="Enter your comment here"></textarea>
+                            <textarea cols="40" rows="8" class="blur-textarea" placeholder="Enter your comment here"></textarea>
                         </div>
                     </div>
                 </form>
             </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-ok"></span>Save</button>
-              <button type="button" class="btn btn-default" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span>Close</button>
+            <div class="modal-footer blur">
+              <button type="button" class="btn blur-button"><span class="glyphicon glyphicon-ok"></span>Save</button>
+              <button type="button" class="btn blur-button" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span>Close</button>
             </div>
           </div>
         </div>
      </div>
     </div>
     </div><br><br><br><br><br><br><br><br><br><br><br><Br>
-  </body>
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script src="js/createaccount.js"></script>
+  </body>
 </html>
 <?php include'footer.php'?>

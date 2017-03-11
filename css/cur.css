@@ -21,10 +21,7 @@ p.ridge {
     padding: 10px;
     background: rgba(0,0,0,0.7);
 }
-h2, h4 {
-   color: gray;
-   font-family: Transformers;
-}
+
 .title-bg{
     border-style: ridge;
     border-color: aqua; 
