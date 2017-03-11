@@ -211,7 +211,7 @@
             <div class="col-md-6">
                     <div class="col-md-6" align="center">
                         <h4><strong>HARDWARE DESIGN</strong></h4>
-                        <img src="img/job10.jpg" height="150px" width="250px">
+                        <img src="img/job11.jpg" height="150px" width="250px">
                         <br><br><br>
                         <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#hardwareDesign">SEE MORE</button>
                         <div class="modal fade" id="hardwareDesign" tabindex="-1" role="dialog" aria-labelledby="hardwareDesign" aria-hidden="true">
@@ -238,7 +238,97 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-6" align="center">
+                        <h4><strong>SYSTEMS DESIGN</strong></h4>
+                        <img src="img/job12.jpg" height="150px" width="250px">
+                        <br><br><br>
+                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#systemsDesign">SEE MORE</button>
+                        <div class="modal fade" id="systemsDesign" tabindex="-1" role="dialog" aria-labelledby="systemsDesign" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header blur">
+                                        <h5 class="modal-title" id="systemsDesignLabel"> 
+                                            SYSTEMS DESIGN
+                                        </h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body blur-body">
+                                    <p align="justify">
+                                        &emsp;&emsp;&emsp;
+                                        Systems designers focus on the consoles, hardware and special features used to run the games. They build devices to allow multi-player interaction, but also fighting systems, artificial intelligence and much more. Since these are such complicated and advanced devices, systems designers typically come from computer-related engineering backgrounds. Highly involved from beginning to end, system designers work hard to provide users with an enjoyable experience. While they generally report to the lead game designer, they tend to interact more with programmers due to the technical nature of their job.
+                                    </p>
+                                </div>
+                                <div class="modal-footer blur">
+                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+            <div class="col-md-6">
+                <div class="col-md-6" align="center">
+                        <h4><strong>GAME DEVELOPMENT</strong></h4>
+                        <img src="img/job13.jpg" height="150px" width="250px">
+                        <br><br><br>
+                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#gameDev">SEE MORE</button>
+                        <div class="modal fade" id="gameDev" tabindex="-1" role="dialog" aria-labelledby="gameDev" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header blur">
+                                        <h5 class="modal-title" id="gameDevLabel"> 
+                                            GAME DEVELOPMENT
+                                        </h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body blur-body">
+                                    <p align="justify">
+                                        &emsp;&emsp;&emsp;
+                                        Game developers, more specifically known as video game developers or video game designers, are software developers and engineers who create video games. Game developers may be involved in various aspects of a game's creation from concept and story writing to the coding and programming.
+                                    </p>
+                                </div>
+                                <div class="modal-footer blur">
+                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6" align="center">
+                        <h4><strong>APP DEVELOPMENT</strong></h4>
+                        <img src="img/job14.jpg" height="150px" width="250px">
+                        <br><br><br>
+                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#appDev">SEE MORE</button>
+                        <div class="modal fade" id="appDev" tabindex="-1" role="dialog" aria-labelledby="appDev" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header blur">
+                                        <h5 class="modal-title" id="appDevLabel"> 
+                                            APPLICATION DEVELOPMENT
+                                        </h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body blur-body">
+                                    <p align="justify">
+                                        &emsp;&emsp;&emsp;
+                                        An app developer isn't the guy who sprinkles bacon bits on your loaded potato skins. Well, maybe he is, but an application developer is someone who creates, tests and programs applications software for computers.
+                                    </p>
+                                </div>
+                                <div class="modal-footer blur">
+                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div><br><br><br><br>
 
