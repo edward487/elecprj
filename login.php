@@ -17,7 +17,7 @@
                             <div class="panel-heading" align="center">
                                 <h4><strong>Sign in to our Website</strong></h4>
                             </div>
-                            <div class="panel-body ">
+                            <div class="panel-body">
                                 <form role="form" action="#" method="POST">
                                     <fieldset>
                                         <div class="row">

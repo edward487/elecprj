@@ -1,8 +1,7 @@
 body{
     text-align: justify;
-    cursor: url('../img/Cursor.png');
     color: #A0A0A0;
-    background: url('../img/about.jpg');
+    background: url('../img/back7.png');
     background-attachment: fixed;
 }
 a:hover {
@@ -14,9 +13,7 @@ strong {
 p {
   color:whitesmoke;  
 }
-body {
-   
-}
+
 p.ridge {
     border-style: ridge;
     border-width: 3px; 

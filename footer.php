@@ -56,8 +56,8 @@
         <li><a href="index.php">JME.com</a></li>
         <li><a href="about.php">About</a></li>
         <li><a href="contact.php">Contact us</a></li>
-        <li><a href="#">Faculty</a></li>
-        <li><a href="#">Activity</a></li>
+        <li><a href="#">Job Oppurtunities</a></li>
+        <li><a href="#">Academic Policies</a></li>
       </ul>
     </div>
   </div>
