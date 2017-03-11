@@ -300,7 +300,7 @@
                     </div>
                     <div class="col-md-6" align="center">
                         <h4><strong>APP DEVELOPMENT</strong></h4><Br>
-                        <img src="img/job14.jpg" clss="img-rounded" height="150px" width="250px">
+                        <img src="img/job14.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
                         <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#appDev" style="border-color: aqua;">SEE MORE</button>
                         <div class="modal fade" id="appDev" tabindex="-1" role="dialog" aria-labelledby="appDev" aria-hidden="true">
