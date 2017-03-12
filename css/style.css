@@ -1,5 +1,5 @@
 body{
-    background: url('../img/back7.png');
+    background: url('../img/Background-01.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -72,6 +72,55 @@ h1 strong{
 .spinning-logo {
     width: 850px;
     height: 850px;
-    margin-left: -230px;
-    margin-top: -150px;
+    margin-top: -100px;
+    margin-left: -250px;
 }
+
+.navigation-buttons {
+    width: 250px;
+    height: auto;
+}
+
+.nav1 {
+    margin-top: -1000px;
+    
+} 
+
+.nav1:hover {
+    content: url("../img/nav-home-01-hover.svg");
+}
+
+.nav2 {
+    margin-top: -880px;
+    margin-left: -254px
+} 
+
+.nav3 {
+    margin-top: -760px;
+    margin-left: -254px
+} 
+
+.nav4 {
+    margin-top: -1000px;
+    margin-left: 625px
+} 
+
+.nav5 {
+    margin-top: -920px;
+    margin-left: 880px
+} 
+
+.nav6 {
+    margin-top: -845px;
+    margin-left: 880px
+} 
+
+.nav7 {
+    margin-top: -400px;
+    margin-left: -500px;
+} 
+
+.nav8 {
+    margin-top: -440px;
+    margin-left: 240px;
+} 

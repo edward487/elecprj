@@ -1,7 +1,9 @@
 body{
-    background: url('../img/back7.png');
+    background: url('../img/Background-01.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: center;
+    overflow-x: hidden;
 }
 p{
   color: whitesmoke;
