@@ -11,11 +11,8 @@
       <div class="container">
           <div class="row">
           <div class="col-md-4">
-<<<<<<< HEAD
               <a href="/elecprj/">
-=======
               <a href="preload.php">
->>>>>>> 546531ff723e2cb41a6a1d93dc597fdee5837817
                 <img class="navigation-buttons nav1" src="img/nav-home-01.svg">
               </a>
           </div>
