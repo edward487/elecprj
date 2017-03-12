@@ -1,4 +1,4 @@
-var sec = 5;
+var sec = 33;
 var myTimer = document.getElementById('myTimer');
 var myBtn = document.getElementById('myBtn');
 window.onload = countDown;
