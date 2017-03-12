@@ -6,14 +6,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/cur.css">
-           
+    <link rel="stylesheet" href="css/cur.css">         
   </head>
   <body>
    <br><br><br><br>
       <div class="container">
         <div class="col-md-12">
-          <h1 style="font-family: Transformers;"><strong>FOURTH YEAR CURRICULUM</strong></h1>
+          <h1 style="font-family: Transformers; color: aqua;" align="center">FOURTH YEAR CURRICULUM</h1>
         </div><br><br><br><br><br><br><br>
          <div class="row">
             <div class="title-bg">

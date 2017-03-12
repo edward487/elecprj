@@ -12,7 +12,7 @@
 <br><br><br><br>
       <div class="container">
         <div class="col-md-12">
-          <h1 style="font-family: Transformers;"><strong>SECOND YEAR CURRICULUM</strong></h1>
+          <h1 style="font-family:Transformers; color: aqua;" align="center">SECOND YEAR CURRICULUM</h1>
         </div><br><br><br><br><br><br><br>
           <div class="row">
                 <div class="title-bg">

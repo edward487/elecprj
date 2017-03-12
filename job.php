@@ -16,10 +16,10 @@
                 <div class="row">
                 <div class="col-md-6">
                     <div align="center">
-                        <h1><strong>HARDWARE ENGINEER</strong></h1>
-                        <img src="img/job6.jpg" height="300px">
+                        <h1><strong>HARDWARE ENGINEER</strong></h1><br><br>
+                        <img src="img/job6.jpg" class="img-rounded" height="300px">
                         <br><br><br>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#hardwareEngineer">SEE MORE</button>
+                        <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#hardwareEngineer" style="border-color: aqua;">SEE MORE</button>
                         <div class="modal fade" id="hardwareEngineer" tabindex="-1" role="dialog" aria-labelledby="hardwareEngineer" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content modal-md">
@@ -28,7 +28,7 @@
                                             HARDWARE ENGINEER
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
+                                    <span aria-hidden="true"><strong>&times;</strong></span>
                                     </button>
                                 </div>
                                 <div class="modal-body blur-body">
@@ -38,7 +38,7 @@
                                     </p>
                                 </div>
                                 <div class="modal-footer blur">
-                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                    <button type="button" class="btn blur-button col-md-offset-5" data-dismiss="modal">OK</button>
                                 </div>
                                 </div>
                             </div>
@@ -46,13 +46,13 @@
                     </div>
                     <br><br><br><br>
                     <div class="col-md-12" align="center">
-                        <h3><strong>Jobs Under Hardware Engineers</strong></h3>
-                    </div>
+                        <h2><strong>Jobs Under Hardware Engineers</strong></h2>
+                    </div><br><br><br><br><br><br>
                     <div class="col-md-6" align="center">
-                        <h4><strong>CIRCUIT DESIGN</strong></h4>
-                        <img src="img/job9.jpg" height="150px" width="250px">
+                        <h4><strong>CIRCUIT DESIGN</strong></h4><br>
+                        <img src="img/job9.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#circuitDesign">SEE MORE</button>
+                        <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#circuitDesign" style="border-color: aqua;">SEE MORE</button>
                         <div class="modal fade" id="circuitDesign" tabindex="-1" role="dialog" aria-labelledby="circuitDesign" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
@@ -61,7 +61,7 @@
                                             CIRCUIT DESIGN
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
+                                    <span aria-hidden="true"><strong>&times;</strong></span>
                                     </button>
                                 </div>
                                 <div class="modal-body blur-body">
@@ -71,17 +71,17 @@
                                     </p>
                                 </div>
                                 <div class="modal-footer blur">
-                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                    <button type="button" class="btn blur-button col-md-offset-5" data-dismiss="modal">OK</button>
                                 </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6" align="center">
-                        <h4><strong>COMPUTER DESIGN</strong></h4>
-                        <img src="img/job10.jpg" height="150px" width="250px">
+                        <h4><strong>COMPUTER DESIGN</strong></h4><br>
+                        <img src="img/job10.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#computerDesign">SEE MORE</button>
+                        <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#computerDesign" style="border-color: aqua;">SEE MORE</button>
                         <div class="modal fade" id="computerDesign" tabindex="-1" role="dialog" aria-labelledby="computerDesign" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
@@ -90,7 +90,7 @@
                                             COMPUTER DESIGN
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
+                                    <span aria-hidden="true"><strong>&times;</strong></span>
                                     </button>
                                 </div>
                                 <div class="modal-body blur-body">
@@ -100,7 +100,7 @@
                                     </p>
                                 </div>
                                 <div class="modal-footer blur">
-                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                    <button type="button" class="btn blur-button col-md-offset-5" data-dismiss="modal">OK</button>
                                 </div>
                                 </div>
                             </div>
@@ -111,10 +111,10 @@
                 <!-- Right job opportunities grid -->
                 <div class="col-md-6">
                     <div align="center">
-                        <h1><strong>SOFTWARE ENGINEER</strong></h1>
-                        <img src="img/job5.jpg" height="300px">
+                        <h1><strong>SOFTWARE ENGINEER</strong></h1><br><br>
+                        <img src="img/job5.jpg" class="img-rounded" height="300px">
                         <br><br><br>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#softwareEngineer">SEE MORE</button>
+                        <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#softwareEngineer" style="border-color: aqua;">SEE MORE</button>
                         <div class="modal fade" id="softwareEngineer" tabindex="-1" role="dialog" aria-labelledby="softwareEngineer" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
@@ -123,7 +123,7 @@
                                             SOFTWARE ENGINEER
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
+                                    <span aria-hidden="true"><strong>&times;</strong></span>
                                     </button>
                                 </div>
                                 <div class="modal-body blur-body">
@@ -133,7 +133,7 @@
                                     </p>
                                 </div>
                                 <div class="modal-footer blur">
-                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                    <button type="button" class="btn blur-button col-md-offset-5" data-dismiss="modal">OK</button>
                                 </div>
                                 </div>
                             </div>
@@ -141,13 +141,13 @@
                     </div>
                     <br><br><br><br>
                     <div class="col-md-12" align="center">
-                        <h3><strong>Jobs Under Software Engineers</strong></h3>
-                    </div>
+                        <h2><strong>Jobs Under Software Engineers</strong></h2>
+                    </div><br><br><br><br><br><br>
                     <div class="col-md-6" align="center">
-                        <h4><strong>PROGRAMMING</strong></h4>
-                        <img src="img/job7.jpg" height="150px" width="250px">
+                        <h4><strong>PROGRAMMING</strong></h4><br>
+                        <img src="img/job7.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#programmer">SEE MORE</button>
+                        <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#programmer" style="border-color: aqua;">SEE MORE</button>
                         <div class="modal fade" id="programmer" tabindex="-1" role="dialog" aria-labelledby="programmer" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
@@ -156,7 +156,7 @@
                                             PROGRAMMING
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
+                                    <span aria-hidden="true"><strong>&times;</strong></span>
                                     </button>
                                 </div>
                                 <div class="modal-body blur-body">
@@ -166,17 +166,17 @@
                                     </p>
                                 </div>
                                 <div class="modal-footer blur">
-                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                    <button type="button" class="btn blur-button col-md-offset-5" data-dismiss="modal">OK</button>
                                 </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6" align="center">
-                        <h4><strong>WEB DEVELOPMENT</strong></h4>
-                        <img src="img/job8.jpg" height="150px" width="250px">
+                        <h4><strong>WEB DEVELOPMENT</strong></h4><br>
+                        <img src="img/job8.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#webDeveloper">SEE MORE</button>
+                        <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#webDeveloper" style="border-color: aqua;">SEE MORE</button>
                         <div class="modal fade" id="webDeveloper" tabindex="-1" role="dialog" aria-labelledby="webDeveloper" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
@@ -185,7 +185,7 @@
                                             WEB DEVELOPMENT
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
+                                    <span aria-hidden="true"><strong>&times;</strong></span>
                                     </button>
                                 </div>
                                 <div class="modal-body blur-body">
@@ -195,7 +195,7 @@
                                     </p>
                                 </div>
                                 <div class="modal-footer blur">
-                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                    <button type="button" class="btn blur-button col-md-offset-5" data-dismiss="modal">OK</button>
                                 </div>
                                 </div>
                             </div>
@@ -210,10 +210,10 @@
         <div class="row">
             <div class="col-md-6">
                     <div class="col-md-6" align="center">
-                        <h4><strong>HARDWARE DESIGN</strong></h4>
-                        <img src="img/job11.jpg" height="150px" width="250px">
+                        <h4><strong>HARDWARE DESIGN</strong></h4><br>
+                        <img src="img/job11.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#hardwareDesign">SEE MORE</button>
+                        <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#hardwareDesign" style="border-color: aqua;">SEE MORE</button>
                         <div class="modal fade" id="hardwareDesign" tabindex="-1" role="dialog" aria-labelledby="hardwareDesign" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
@@ -222,7 +222,7 @@
                                             HARDWARE DESIGN
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
+                                    <span aria-hidden="true"><strong>&times;</strong></span>
                                     </button>
                                 </div>
                                 <div class="modal-body blur-body">
@@ -232,17 +232,17 @@
                                     </p>
                                 </div>
                                 <div class="modal-footer blur">
-                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                    <button type="button" class="btn blur-button col-md-offset-5" data-dismiss="modal">OK</button>
                                 </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6" align="center">
-                        <h4><strong>SYSTEMS DESIGN</strong></h4>
-                        <img src="img/job12.jpg" height="150px" width="250px">
+                        <h4><strong>SYSTEMS DESIGN</strong></h4><br>
+                        <img src="img/job12.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#systemsDesign">SEE MORE</button>
+                        <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#systemsDesign" style="border-color: aqua;">SEE MORE</button>
                         <div class="modal fade" id="systemsDesign" tabindex="-1" role="dialog" aria-labelledby="systemsDesign" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
@@ -251,7 +251,7 @@
                                             SYSTEMS DESIGN
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
+                                    <span aria-hidden="true"><strong>&times;</strong></span>
                                     </button>
                                 </div>
                                 <div class="modal-body blur-body">
@@ -261,7 +261,7 @@
                                     </p>
                                 </div>
                                 <div class="modal-footer blur">
-                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                    <button type="button" class="btn blur-button col-md-offset-5" data-dismiss="modal">OK</button>
                                 </div>
                                 </div>
                             </div>
@@ -270,10 +270,10 @@
                 </div>
             <div class="col-md-6">
                 <div class="col-md-6" align="center">
-                        <h4><strong>GAME DEVELOPMENT</strong></h4>
-                        <img src="img/job13.jpg" height="150px" width="250px">
+                        <h4><strong>GAME DEVELOPMENT</strong></h4><br>
+                        <img src="img/job13.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#gameDev">SEE MORE</button>
+                        <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#gameDev" style="border-color: aqua;">SEE MORE</button>
                         <div class="modal fade" id="gameDev" tabindex="-1" role="dialog" aria-labelledby="gameDev" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
@@ -282,7 +282,7 @@
                                             GAME DEVELOPMENT
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
+                                    <span aria-hidden="true"><strong>&times;</strong></span>
                                     </button>
                                 </div>
                                 <div class="modal-body blur-body">
@@ -292,17 +292,17 @@
                                     </p>
                                 </div>
                                 <div class="modal-footer blur">
-                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                    <button type="button" class="btn blur-button col-md-offset-5" data-dismiss="modal">OK</button>
                                 </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6" align="center">
-                        <h4><strong>APP DEVELOPMENT</strong></h4>
-                        <img src="img/job14.jpg" height="150px" width="250px">
+                        <h4><strong>APP DEVELOPMENT</strong></h4><Br>
+                        <img src="img/job14.jpg" clss="img-rounded" height="150px" width="250px">
                         <br><br><br>
-                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#appDev">SEE MORE</button>
+                        <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#appDev" style="border-color: aqua;">SEE MORE</button>
                         <div class="modal fade" id="appDev" tabindex="-1" role="dialog" aria-labelledby="appDev" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
@@ -311,7 +311,7 @@
                                             APPLICATION DEVELOPMENT
                                         </h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
+                                    <span aria-hidden="true"><strong>&times;</strong></span>
                                     </button>
                                 </div>
                                 <div class="modal-body blur-body">
@@ -321,7 +321,7 @@
                                     </p>
                                 </div>
                                 <div class="modal-footer blur">
-                                    <button type="button" class="btn blur-button" data-dismiss="modal">OK</button>
+                                    <button type="button" class="btn blur-button col-md-offset-5" data-dismiss="modal">OK</button>
                                 </div>
                                 </div>
                             </div>
@@ -331,6 +331,5 @@
             </div>
         </div>
     </div><br><br><br><br>
-
 </body>
 </html>
