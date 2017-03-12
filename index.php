@@ -11,7 +11,7 @@
       <div class="container">
           <div class="row">
           <div class="col-md-4">
-              <a href="index.php">
+              <a href="/elecprj/">
                 <img class="navigation-buttons nav1" src="img/nav-home-01.svg">
               </a>
           </div>
@@ -21,49 +21,49 @@
           </div>
           <div class="row">
               <div class="col-md-4 col-md-offset-2">
-                  <a href="contact.php">
+                  <a href="contact">
                     <img class="navigation-buttons nav2" src="img/nav-contact-01.svg">
                   </a>
               </div>
           </div>
            <div class="row">
               <div class="col-md-4 col-md-offset-2">
-                  <a href="about.php">
+                  <a href="about">
                     <img class="navigation-buttons nav3" src="img/nav-about-01.svg">
                   </a>
               </div>
           </div>
           <div class="row">
               <div class="col-md-4 col-md-offset-2">
-                  <a href="academic-policies.php">
+                  <a href="academic-policies">
                     <img class="navigation-buttons nav4" src="img/nav-academic-01.svg">
                   </a>
               </div>
           </div>
           <div class="row">
               <div class="col-md-4 col-md-offset-2">
-                  <a href="job.php">
+                  <a href="job">
                    <img class="navigation-buttons nav5" src="img/nav-job-01.svg">
                   </a>
               </div>
           </div>
           <div class="row">
               <div class="col-md-4 col-md-offset-2">
-                  <a href="job.php">
+                  <a href="job">
                    <img class="navigation-buttons nav6" src="img/nav-curriculum-01.svg">
                   </a>
               </div>
           </div>
           <div class="row">
               <div class="col-md-4 col-md-offset-2">
-                  <a href="createaccount.php">
+                  <a href="createaccount">
                     <img class="navigation-buttons nav7" src="img/nav-signup-01.svg">
                   </a>
               </div>
           </div>
           <div class="row">
               <div class="col-md-4 col-md-offset-2">
-                  <a href="login.php">
+                  <a href="login">
                     <img class="navigation-buttons nav8" src="img/nav-login-01.svg">
                   </a>
               </div>
