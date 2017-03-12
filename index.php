@@ -11,7 +11,11 @@
       <div class="container">
           <div class="row">
           <div class="col-md-4">
+<<<<<<< HEAD
               <a href="/elecprj/">
+=======
+              <a href="preload.php">
+>>>>>>> 546531ff723e2cb41a6a1d93dc597fdee5837817
                 <img class="navigation-buttons nav1" src="img/nav-home-01.svg">
               </a>
           </div>
@@ -68,6 +72,9 @@
                   </a>
               </div>
           </div>
+          <audio autoplay loop>
+              <source src="audio/web-audio.mp3">
+          </audio>
   </body>
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
