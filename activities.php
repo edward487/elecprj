@@ -6,13 +6,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/academic.css">
+    <link rel="stylesheet" href="css/activities.css">
   </head>
     <body>
         <div class="container">
             <div class="row">
-                <div class="col-sm-12">
-                    <h3><strong>REGISTRATION</strong></h3>
+                <div class="col-sm-12"><br><Br><br><br><Br><br>
+                    <h1><strong>REGISTRATION</strong></h1>
                 </div>
                 <div class="col-sm-12">
                     <p class="ridge">
