@@ -1,0 +1,44 @@
+video{
+position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translate(-50%, -50%);
+}
+
+
+#myTimer {
+  font:64px Tahoma bold;
+  padding:20px;
+  display:block;
+}
+
+a {
+  width:120px;
+  padding:10px;
+
+}
+
+.btnEnable {
+  padding: 10px;
+  background-color: rgba(0,0,0,0.5);
+  display: block;
+  color:whitesmoke;
+  text-shadow:0 1px 1px rgba(0,0,0,.6);
+  transition: box-shadow .5s ease;
+  cursor:pointer;
+}
+
+.btnDisable {
+  padding: 10px;
+  background-color: rgba(0,0,0,0.5);
+  display: block;
+  color: whitesmoke;
+  text-shadow:0 1px 1px rgba(0,0,0,.6);
+  transition: box-shadow .5s ease;
+  cursor:wait;
+}
