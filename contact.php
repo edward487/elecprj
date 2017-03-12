@@ -65,6 +65,7 @@
     </div><br><br><br><br><br><br><br><br><br><br><br><Br>
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+      <?php include'footer.php'?>
   </body>
 </html>
 

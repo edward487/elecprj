@@ -11,9 +11,10 @@
     <video autoplay>
         <source src="video/vid1.mp4" type="video/mp4">
     </video>
-    <div id="wrapper">
-        <div id="myTimer"></div>
-            <a type="submit" id="myBtn" class="btnDisable" disabled onclick='href="index.php"'>Please wait...</a>
+        <div id="wrapper">
+  <div id="myTimer"></div>
+  <button type="button" id="myBtn" class="btnDisable" disabled onclick="location.href='index.php'">Please wait...</button>
+</div>
     </div>
     <script>
 

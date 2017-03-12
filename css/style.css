@@ -19,50 +19,6 @@ strong {
 h1 strong{
     font-size: 70px;
 }
-.content-section {
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
-#gallery-carousel {
-  margin-top: 50px;
-  max-height: 500px;
-  min-height: 200px;
-  padding-left: 0;
-  padding-right: 0;
-  margin-left: 0;
-  margin-right: 0;
-}
-#gallery-carousel .container {
-  height: 100%;
-  width: 100%;
-  padding-left: 0;
-  padding-right: 0;
-  margin-left: 0;
-  margin-right: 0;
-  padding-top: 50px;
-  padding-bottom: 100px;
-}
-.carousel-control, .carousel-control.right, .carousel-control.left {
-  height: 50%;
-  background-image: -webkit-linear-gradient(left,rgba(0,0,0,0) 0,rgba(0,0,0,0) 100%);
-  background-image: -o-linear-gradient(left,rgba(0,0,0,0) 0,rgba(0,0,0,0) 100%);
-  background-image: -webkit-gradient(linear,left top,right top,from(rgba(0,0,0,0)),to(rgba(0,0,0,0)));
-  background-image: linear-gradient(to right,rgba(0,0,0,0) 0,rgba(0,0,0,0) 100%);
-  margin-top: auto;
-  margin-bottom: auto;
-}
-.item {
-  padding: 0;
-  margin: 0;
-  position: relative;
-  width: 100%;
-  height: 500px;
-}
-.fillwidth {
-  position: relative;
-  width: 100%;
-  top: 0;
-}
 
 @font-face {
     font-family: 'Oswald'
@@ -86,7 +42,7 @@ h1 strong{
 }
 
 div a .nav1:hover {;
-    width: 100%;
+    width: 90%;
     height: 100%;
 }
 
@@ -96,7 +52,7 @@ div a .nav1:hover {;
 } 
 
 div a .nav2:hover {
-    width: 100%;
+    width: 90%;
     height: 100%;
 }
 
@@ -106,7 +62,7 @@ div a .nav2:hover {
 } 
 
 div a .nav3:hover {
-    width: 100%;
+    width: 90%;
     height: 100%;
 }
 
@@ -116,7 +72,7 @@ div a .nav3:hover {
 } 
 
 div a .nav4:hover {
-    width: 100%;
+    width: 90%;
     height: 100%;
 }
 .nav5 {
@@ -125,7 +81,7 @@ div a .nav4:hover {
 } 
 
 div a .nav5:hover {
-    width: 100%;
+    width: 90%;
     height: 100%;
 }
 .nav6 {
@@ -134,7 +90,7 @@ div a .nav5:hover {
 } 
 
 div a .nav6:hover {
-    width: 100%;
+    width: 90%;
     height: 100%;
 }
 .nav7 {
@@ -142,7 +98,7 @@ div a .nav6:hover {
     margin-left: -120px;
 } 
 div a .nav7:hover {
-    width: 100%;
+    width: 90%;
     height: 100%;
 }
 
@@ -151,6 +107,6 @@ div a .nav7:hover {
     margin-left: 580px;
 } 
 div a .nav8:hover {
-    width: 100%;
+    width: 90%;
     height: 100%;
 }

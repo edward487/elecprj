@@ -1,11 +1,15 @@
 video{
-position: fixed;
+  position: fixed;
   top: 50%;
   left: 50%;
   min-width: 100%;
   min-height: 100%;
   width: 1280px;
+<<<<<<< HEAD
   height: 1080px;
+=======
+  height: 1020px;
+>>>>>>> 301cedd4ccca16be99646f16cb366e71125e059c
   z-index: -100;
   transform: translate(-50%, -50%);
 }
@@ -17,7 +21,7 @@ position: fixed;
   display:block;
 }
 
-a {
+div a {
   width:120px;
   padding:10px;
 
@@ -26,7 +30,13 @@ a {
 .btnEnable {
   padding: 10px;
   background-color: rgba(0,0,0,0.5);
-  display: block;
+  color:whitesmoke;
+  text-shadow:0 1px 1px rgba(0,0,0,.6);
+  transition: box-shadow .5s ease;
+}
+.btnEnable:hover {
+  padding: 10px;
+  background-color: green;
   color:whitesmoke;
   text-shadow:0 1px 1px rgba(0,0,0,.6);
   transition: box-shadow .5s ease;
@@ -36,9 +46,13 @@ a {
 .btnDisable {
   padding: 10px;
   background-color: rgba(0,0,0,0.5);
-  display: block;
   color: whitesmoke;
   text-shadow:0 1px 1px rgba(0,0,0,.6);
   transition: box-shadow .5s ease;
+}
+.btnDisable:hover {
+  padding: 10px;
+  background-color: beige;
+  color: black;
   cursor:wait;
 }
