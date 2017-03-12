@@ -9,11 +9,11 @@
     <link rel="stylesheet" href="css/activities.css">
   </head>
     <body>
-        <div class="container">
+        <div class="container"><br><br><br><br>
             <div class="row">
                 <div class="col-sm-12">
-                    <h3><strong>REGISTRATION</strong></h3>
-                </div>
+                    <h2><strong>REGISTRATION</strong></h2>
+                </div><br><br><br><br>
                 <div class="col-sm-12">
                     <p class="ridge">
                         1. Registration of student shall only be on the regular registration period indicated in the academic calendar. No student shall be registered in any subject after 12% of regular class meeting had been held.
@@ -43,7 +43,7 @@
                         9. Late registration fee shall be charged to as student who shall enroll after the regular registration period as provided for in the academic calendar.
                     </p>
                     <br><br><br><br>
-                    <h4><strong>1.	Academic Load</strong></h4>
+                    <h2><strong>1.	Academic Load</strong></h2><br>
                     <p class="ridge">
                         a.	The total number of units in regular semester for which a student may register shall be in accordance with the curriculum program the student is enrolled in.
                     </p>
@@ -66,7 +66,7 @@
                         g.	The dean may limit the academic load of students who are employed outside the institution whether full time or part time.
                     </p>
                     <br><br>
-                    <h4><strong>2.	Cross-enrollment</strong></h4>
+                    <h2><strong>2.	Cross-enrollment</strong></h2><br>
                     <p class="ridge">
                         a.	Cross-enrollment should be done within the period of registration.
                     </p>
@@ -83,7 +83,7 @@
                         e.	Students coming from other institution shall be allowed to cross-register within the enrollment period only and with a permit to cross-enroll from his Registrar and subject to the availability of a slot.
                     </p>
                     <br><br>
-                    <h4><strong>3.	Changing/Adding/Dropping of Subjects</strong></h4>
+                    <h2><strong>3.	Changing/Adding/Dropping of Subjects</strong></h2><br>
                     <p class="ridge">
                         a.	Changing/Adding/Dropping of subjects shall be made only for valid reasons and stated in writing to be approved by the Dean and acknowledged by the College Registrar.
                     </p>
@@ -106,7 +106,7 @@
                         g.	Unofficial dropping of subject after the mid-term shall earn the student a failing grade of 5.0.
                     </p>
                     <br><br>
-                    <h4><strong>4.	Shifting from One Course to Another</strong></h4>
+                    <h2><strong>4.	Shifting from One Course to Another</strong></h2><br>
                     <p class="ridge">
                         a.	A student shall be allowed by the Dean to shift his course if in the opinion of the Dean, he is not academically suited to the course.
                     </p>
@@ -114,7 +114,7 @@
                         b.	A student should apply for a shift of course to the Dean where he is getting out to be endorsed to the Dean of his new course who in turn shall approve said application.
                     </p>
                     <br><br>
-                    <h4><strong>5.	Withdrawal of Registration</strong></h4>
+                    <h2><strong>5.	Withdrawal of Registration</strong></h2><br>
                     <p class="ridge">
                         a.	Withdrawal of registration shall be made and approved based on existing rules and regulations of the institutions.
                     </p>
@@ -130,7 +130,7 @@
                     <br><br>
                 </div>
                 <div class="col-sm-12">
-                    <h3><strong>GRADUATION WITH HONORS</strong></h3>
+                    <h2><strong>GRADUATION WITH HONORS</strong></h2><br>
                 </div>
                 <div class="col-sm-12">
                     <p class="ridge">
@@ -171,7 +171,7 @@
                     </p>
                 </div>
             </div>
-        </div><br><b><br><br><br>
+        </div><br><br><br><br><br>
         <?php include "footer.php" ?>
     </body>
 </html>

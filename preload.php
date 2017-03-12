@@ -13,7 +13,7 @@
     </video>
     <div id="wrapper">
         <div id="myTimer"></div>
-            <a type="submit" id="myBtn" class="btnDisable" disabled onclick='href="contact.php"'>Please wait...</a>
+            <a type="submit" id="myBtn" class="btnDisable" disabled onclick='href="index.php"'>Please wait...</a>
     </div>
     <script>
 

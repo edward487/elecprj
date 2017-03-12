@@ -1,8 +1,7 @@
 body{
     background: url('../img/Background-01.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background-size: 1250px;
+    background-attachment: fixed;
     overflow-x: hidden;
 }
 p{

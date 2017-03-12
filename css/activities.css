@@ -5,8 +5,9 @@ strong {
     color: aqua;
 }
 body {
-    background: url('../img/back7.png');
+    background: url('../img/Background-01.jpg');
     background-attachment: fixed;
+    background-size: 1250px;
 }
 p {
     color: whitesmoke;
