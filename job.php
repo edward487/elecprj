@@ -9,11 +9,14 @@
     <link rel="stylesheet" type="text/css" href="css/job.css">
   </head>
 <body>
-    <div class="container">
+    <div class="container"><br><br><br>
         <div class="row">
             <div class="col-md-12">
                 <!-- Left job opportunities grid -->
                 <div class="row">
+                    <div align="center">
+                        <h1><strong><p class="dotted">COMPUTER ENGINEER</p></strong></h1>
+                    </div><br><br>
                 <div class="col-md-6">
                     <div align="center">
                         <h1><strong><p class="dotted">HARDWARE ENGINEER</p></strong></h1><br><br>
