@@ -1,5 +1,5 @@
 body{
-    background: url('../img/back7.png');
+    background: url('../img/Background-01.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -72,6 +72,85 @@ h1 strong{
 .spinning-logo {
     width: 850px;
     height: 850px;
-    margin-left: -230px;
-    margin-top: -150px;
+    margin-top: -100px;
+    margin-left: -250px;
+}
+
+.navigation-buttons {
+    width: 250px;
+    height: auto;
+}
+.nav1{
+    margin-top:250px;
+    
+}
+
+div a .nav1:hover {;
+    width: 100%;
+    height: 100%;
+}
+
+.nav2 {
+    margin-top: -860px;
+    margin-left: -254px
+} 
+
+div a .nav2:hover {
+    width: 100%;
+    height: 100%;
+}
+
+.nav3 {
+    margin-top: -780px;
+    margin-left: -195px
+} 
+
+div a .nav3:hover {
+    width: 100%;
+    height: 100%;
+}
+
+.nav4 {
+    margin-top: -1050px;
+    margin-left: 690px
+} 
+
+div a .nav4:hover {
+    width: 100%;
+    height: 100%;
+}
+.nav5 {
+    margin-top: -970px;
+    margin-left: 720px
+} 
+
+div a .nav5:hover {
+    width: 100%;
+    height: 100%;
+}
+.nav6 {
+    margin-top: -890px;
+    margin-left: 695px
+} 
+
+div a .nav6:hover {
+    width: 100%;
+    height: 100%;
+}
+.nav7 {
+    margin-top: -1500px;
+    margin-left: -120px;
+} 
+div a .nav7:hover {
+    width: 100%;
+    height: 100%;
+}
+
+.nav8 {
+    margin-top: -1530px;
+    margin-left: 580px;
+} 
+div a .nav8:hover {
+    width: 100%;
+    height: 100%;
 }
