@@ -1,0 +1,53 @@
+body {
+    background: url('../img/back7.png');
+    background-attachment: fixed;
+}
+
+h1, h3, h4 {
+    color:aqua;
+}
+
+h5{
+    color:whitesmoke;
+}
+
+.blur{
+  background: rgba(0,0,0,0.85);
+  color: whitesmoke;
+  text-shadow:0 1px 1px rgba(0,0,0,.6);
+  transition: box-shadow .5s ease;
+}
+.blur-body{
+  background: rgba(0,0,0,0.7);
+  color: whitesmoke;
+  text-shadow:0 1px 1px rgba(0,0,0,.6);
+  transition: box-shadow .5s ease;
+}
+
+.blur-button{
+  padding: 10px;
+  background-color: rgba(0,0,0,0.5);
+  height: 40px;
+  width: 80px;
+  display: block;
+  color: whitesmoke;
+  text-shadow:0 1px 1px rgba(0,0,0,.6);
+  transition: box-shadow .5s ease;
+}
+.blur-button:hover{
+  padding: 10px;
+  background-color: rgba(0,0,0,0.8);
+  display: block;
+}
+.blur-textbox{
+  padding: 10px;
+  background-color: rgba(0,0,0,0.9);
+  display: block;
+  color: whitesmoke;
+  text-shadow:0 1px 1px rgba(0,0,0,.6);
+  transition: box-shadow .5s ease;
+}
+strong{
+    color: whitesmoke;
+    font-family: 'Oswald Regular';
+}

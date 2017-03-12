@@ -42,7 +42,7 @@
         </div>
     </nav>
         <audio autoplay loop>
-          <source src="../elecprj/audio/epic.mp3" type="audio/mpeg">
+          <source src="../elecprj/audio/web-audio.mp3" type="audio/mpeg">
         </audio>
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
