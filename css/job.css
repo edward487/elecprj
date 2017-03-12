@@ -1,6 +1,8 @@
 body {
-    background: url('../img/back7.png');
-    background-attachment: fixed;
+    background: url('../img/Background-01.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
 }
 
 h1, h3, h4 {
@@ -57,6 +59,7 @@ p.dotted {
   border-width: 3px;
   width: 400px;
   background: rgba(0,0,0,0.9);
+  border-color: aqua;
 }
 p.dotted2 {
   border-style: dotted;
@@ -64,4 +67,5 @@ p.dotted2 {
   border-width: 3px;
   width: 200px;
   background: rgba(0,0,0,0.9);
+  border-color: aqua;
 }

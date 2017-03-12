@@ -1,7 +1,8 @@
 body{
     text-align: justify;
     color: #A0A0A0;
-    background: url('../img/back7.png');
+    background: url('../img/Background-01.jpg');
+    background-size: cover;
     background-attachment: fixed;
     overflow-x: hidden;
 }
