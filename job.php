@@ -16,7 +16,7 @@
                 <div class="row">
                 <div class="col-md-6">
                     <div align="center">
-                        <h1><strong>HARDWARE ENGINEER</strong></h1><br><br>
+                        <h1><strong><p class="dotted">HARDWARE ENGINEER</p></strong></h1><br><br>
                         <img src="img/job6.jpg" class="img-rounded" height="300px">
                         <br><br><br>
                         <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#hardwareEngineer" style="border-color: aqua;">SEE MORE</button>
@@ -46,10 +46,10 @@
                     </div>
                     <br><br><br><br>
                     <div class="col-md-12" align="center">
-                        <h2><strong>Jobs Under Hardware Engineers</strong></h2>
+                        <h2><strong><p class="dotted">Jobs Under Hardware Engineers</p></strong></h2>
                     </div><br><br><br><br><br><br>
                     <div class="col-md-6" align="center">
-                        <h4><strong>CIRCUIT DESIGN</strong></h4><br>
+                        <h4><strong><p class="dotted2">CIRCUIT DESIGN</p></strong></h4><br>
                         <img src="img/job9.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
                         <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#circuitDesign" style="border-color: aqua;">SEE MORE</button>
@@ -78,7 +78,7 @@
                         </div>
                     </div>
                     <div class="col-md-6" align="center">
-                        <h4><strong>COMPUTER DESIGN</strong></h4><br>
+                        <h4><strong><p class="dotted2">COMPUTER DESIGN</p></strong></h4><br>
                         <img src="img/job10.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
                         <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#computerDesign" style="border-color: aqua;">SEE MORE</button>
@@ -111,7 +111,7 @@
                 <!-- Right job opportunities grid -->
                 <div class="col-md-6">
                     <div align="center">
-                        <h1><strong>SOFTWARE ENGINEER</strong></h1><br><br>
+                        <h1><strong><p class="dotted">SOFTWARE ENGINEER</p></strong></h1><br><br>
                         <img src="img/job5.jpg" class="img-rounded" height="300px">
                         <br><br><br>
                         <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#softwareEngineer" style="border-color: aqua;">SEE MORE</button>
@@ -141,10 +141,10 @@
                     </div>
                     <br><br><br><br>
                     <div class="col-md-12" align="center">
-                        <h2><strong>Jobs Under Software Engineers</strong></h2>
+                        <h2><strong><p class="dotted">Jobs Under Software Engineers</p></strong></h2>
                     </div><br><br><br><br><br><br>
                     <div class="col-md-6" align="center">
-                        <h4><strong>PROGRAMMING</strong></h4><br>
+                        <h4><strong><p class="dotted2">PROGRAMMING</p></strong></h4><br>
                         <img src="img/job7.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
                         <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#programmer" style="border-color: aqua;">SEE MORE</button>
@@ -173,7 +173,7 @@
                         </div>
                     </div>
                     <div class="col-md-6" align="center">
-                        <h4><strong>WEB DEVELOPMENT</strong></h4><br>
+                        <h4><strong><p class="dotted2">WEB DEVELOPMENT</p></strong></h4><br>
                         <img src="img/job8.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
                         <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#webDeveloper" style="border-color: aqua;">SEE MORE</button>
@@ -210,7 +210,7 @@
         <div class="row">
             <div class="col-md-6">
                     <div class="col-md-6" align="center">
-                        <h4><strong>HARDWARE DESIGN</strong></h4><br>
+                        <h4><strong><p class="dotted2">HARDWARE DESIGN</p></strong></h4><br>
                         <img src="img/job11.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
                         <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#hardwareDesign" style="border-color: aqua;">SEE MORE</button>
@@ -239,7 +239,7 @@
                         </div>
                     </div>
                     <div class="col-md-6" align="center">
-                        <h4><strong>SYSTEMS DESIGN</strong></h4><br>
+                        <h4><strong><p class="dotted2">SYSTEMS DESIGN</p></strong></h4><br>
                         <img src="img/job12.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
                         <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#systemsDesign" style="border-color: aqua;">SEE MORE</button>
@@ -270,7 +270,7 @@
                 </div>
             <div class="col-md-6">
                 <div class="col-md-6" align="center">
-                        <h4><strong>GAME DEVELOPMENT</strong></h4><br>
+                        <h4><strong><p class="dotted2">GAME DEVELOPMENT</p></strong></h4><br>
                         <img src="img/job13.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
                         <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#gameDev" style="border-color: aqua;">SEE MORE</button>
@@ -299,7 +299,7 @@
                         </div>
                     </div>
                     <div class="col-md-6" align="center">
-                        <h4><strong>APP DEVELOPMENT</strong></h4><Br>
+                        <h4><strong><p class="dotted2">APP DEVELOPMENT</p></strong></h4><Br>
                         <img src="img/job14.jpg" class="img-rounded" height="150px" width="250px">
                         <br><br><br>
                         <button type="button" class="btn blur-textbox" data-toggle="modal" data-target="#appDev" style="border-color: aqua;">SEE MORE</button>

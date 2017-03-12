@@ -26,7 +26,7 @@ h5{
 
 .blur-button{
   padding: 10px;
-  background-color: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.5);
   height: 40px;
   width: 80px;
   display: block;
@@ -41,7 +41,7 @@ h5{
 }
 .blur-textbox{
   padding: 10px;
-  background-color: rgba(0,0,0,0.9);
+  background: rgba(0,0,0,0.9);
   display: block;
   color: whitesmoke;
   text-shadow:0 1px 1px rgba(0,0,0,.6);
@@ -50,4 +50,18 @@ h5{
 strong{
     color: whitesmoke;
     font-family: 'Oswald Regular';
+}
+p.dotted {
+  border-style: dotted;
+  padding: 10px;
+  border-width: 3px;
+  width: 400px;
+  background: rgba(0,0,0,0.9);
+}
+p.dotted2 {
+  border-style: dotted;
+  padding: 10px;
+  border-width: 3px;
+  width: 200px;
+  background: rgba(0,0,0,0.9);
 }
