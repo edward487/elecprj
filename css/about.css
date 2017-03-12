@@ -3,9 +3,7 @@ body{
     color: #A0A0A0;
     background: url('../img/back7.png');
     background-attachment: fixed;
-}
-a:hover {
-  cursor: url('../img/Cursor.png'); 
+    overflow-x: hidden;
 }
 strong {
     color:aqua;
@@ -14,8 +12,7 @@ strong {
 p {
   color:whitesmoke;  
 }
-
-p.ridge {
+.blur{
     border-style: ridge;
     border-width: 3px; 
     text-shadow:0 1px 1px rgba(0,0,0,.6);
@@ -23,4 +20,38 @@ p.ridge {
     border-color: aqua; 
     padding: 10px;
     background: rgba(0,0,0,0.7);
+}
+p.ridge {
+    border-style: ridge;
+    border-color: aqua;
+    border-width: 3px; 
+    text-shadow:0 1px 1px rgba(0,0,0,.6);
+    transition: box-shadow .5s ease; 
+    padding: 10px;
+    background: rgba(0,0,0,0.7);
+}
+p.blur2 {
+    text-shadow:0 1px 1px rgba(0,0,0,.6);
+    transition: box-shadow .5s ease;
+    color: white;
+    padding: 10px;
+    background: rgba(0,0,0,0.7);
+}
+#accordion .panel-heading { padding: 0;}
+#accordion .panel-title > a {
+	display: block;
+	padding: 0.4em 0.6em;
+    outline: none;
+    font-weight:bold;
+    text-decoration: none;
+}
+
+#accordion .panel-title > a.accordion-toggle::before, #accordion a[data-toggle="collapse"]::before  {
+    content:"\e113";
+    float: left;
+    font-family: 'Glyphicons Halflings';
+	margin-right :1em;
+}
+#accordion .panel-title > a.accordion-toggle.collapsed::before, #accordion a.collapsed[data-toggle="collapse"]::before  {
+    content:"\e114";
 }
