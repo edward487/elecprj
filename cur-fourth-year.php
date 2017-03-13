@@ -34,6 +34,7 @@
                                 <td>Dynamics Of Rigid Bodies</td>
                                 <td>2</td>
                                 <td><select class="select-value one7 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -53,6 +54,7 @@
                                 <td>Strength Of Materials</td>
                                 <td>3</ td>
                                 <td><select class="select-value two7 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -72,6 +74,7 @@
                                 <td>Advanced Logic Circuits</td>
                                 <td>3</td>
                                 <td><select class="select-value three7 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -91,6 +94,7 @@
                                 <td>Advanced Logic Circuits (Lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value four7 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -110,6 +114,7 @@
                                 <td>Digital Signal Processing</td>
                                 <td>3</td>
                                 <td><select class="select-value five7 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -129,6 +134,7 @@
                                 <td>Digital Signal Processing (lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value six7 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -148,6 +154,7 @@
                                 <td>Computer System And Organization W/ Assembly Language</td>
                                 <td>3</td>
                                 <td><select class="select-value seven7 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -166,7 +173,8 @@
                                 <td>CPE422L</td>
                                 <td>Computer System And Organization W/ Assembly Languages</td>
                                 <td>1</td>
-                                <<td><select class="select-value eight7 blur-textbox">
+                                <td><select class="select-value eight7 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -185,7 +193,8 @@
                                 <td>CPE411A</td>
                                 <td>Principles Of Communication</td>
                                 <td>3</td>
-                                <<td><select class="select-value nine7 blur-textbox">
+                                <td><select class="select-value nine7 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -204,7 +213,8 @@
                                 <td>CPE421</td>
                                 <td>Control Systems</td>
                                 <td>3</td>
-                                <<td><select class="select-value ten7 blur-textbox">
+                                <td><select class="select-value ten7 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -223,7 +233,8 @@
                                 <td>CPE421L</td>
                                 <td>Control Systems (Lab)</td>
                                 <td>1</td>
-                                <<td><select class="select-value eleven7 blur-textbox">
+                                <td><select class="select-value eleven7 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -242,7 +253,7 @@
                                 <td></td>
                                 <td style="padding-top:18px;"><strong><span class="pull-right">24</span></strong</td>
                                 <td style="padding-top:18px;"><strong>Units<span class="pull-right">GWA:</span></strong></td>
-                                <td><input type="number" placeholder="Average" id="GWA7" class="blur-textbox"></td>
+                                <td><input type="number" placeholder="Grade Weighted Average" id="GWA7" class="blur-textbox"></td>
                             </tr>
                         </tbody>
                     </table>
@@ -269,6 +280,7 @@
                                 <td>Operating Systems</td>
                                 <td>3</td>
                                 <td><select class="select-value one8 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -288,6 +300,7 @@
                                 <td>Operating Systems (Lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value two8 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -307,6 +320,7 @@
                                 <td>Object Oriented Programming</td>
                                 <td>3</td>
                                 <td><select class="select-value three8 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -326,6 +340,7 @@
                                 <td>Object Oriented Programming (Lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value four8 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -345,6 +360,7 @@
                                 <td>Data communications</td>
                                 <td>3</td>
                                 <td><select class="select-value five8 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -364,6 +380,7 @@
                                 <td>Microprocessor System</td>
                                 <td>3</td>
                                 <td><select class="select-value six8 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -383,6 +400,7 @@
                                 <td>Microprocessor System (Lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value seven8 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -401,7 +419,8 @@
                                 <td>CPE400</td>
                                 <td>Safety Engineering</td>
                                 <td>2</td>
-                                <<td><select class="select-value eight8 blur-textbox">
+                                <td><select class="select-value eight8 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -421,6 +440,7 @@
                                 <td>Professional Elective 1</td>
                                 <td>3</td>
                                 <td><select class="select-value nine8 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -440,6 +460,7 @@
                                 <td>Methods Of Research</td>
                                 <td>3</td>
                                 <td><select class="select-value ten8 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -458,7 +479,7 @@
                                 <td></td>
                                 <td style="padding-top:18px;"><strong><span class="pull-right">23</span></strong</td>
                                 <td style="padding-top:18px;"><strong>Units<span class="pull-right">GWA:</span></strong></td>
-                                <td><input type="number" placeholder="Average" id="GWA8" class="blur-textbox"></td>
+                                <td><input type="number" placeholder="Grade Weighted Average" id="GWA8" class="blur-textbox"></td>
                             </tr>
                         </tbody>
                     </table>

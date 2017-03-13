@@ -26,7 +26,7 @@ function getGWA1() {
  var ped01 = (input9*2);
  var gwa = (soe+mat02+mat04+chm01a+chm01al+eng00+fil01+draw01+ped01);
 
-// Round of two the nearest hundredths
+
 var result = Math.round(gwa/20* 100)/100;
     $("#GWA1").val(result);
 };
@@ -57,7 +57,7 @@ function getGWA2() {
  var ped02 = (input9*2);
  var gwa = (mat02c+mat05b+mat04b+ssc01+eng01+fil02+hum01+hum03+ped02);
 
-// Round of two the nearest hundredths
+
 var result = Math.round(gwa/23* 100)/100;
     $("#GWA2").val(result);
 };
@@ -84,7 +84,7 @@ function getGWA3() {
  var ped03 = (input8*2);
  var gwa = (mat06+phy01a+phy01al+eng02a+ssc03+ssc05+hum02+ped03);
 
-// Round of two the nearest hundredths
+
 var result = Math.round(gwa/22* 100)/100;
     $("#GWA3").val(result);
 };
@@ -115,7 +115,7 @@ function getGWA4() {
  var ped03 = (input9*2);
  var gwa = (mat09a+phy02a+phy02al+mat07+com01+eng03a+ssc02+ssc06+ped03);
 
-// Round of two the nearest hundredths
+
 var result = Math.round(gwa/24* 100)/100;
     $("#GWA4").val(result);
 };
@@ -148,7 +148,7 @@ function getGWA5() {
  var cpe000 = (input11*1);
  var gwa = (cad01+mat08+mat05f+nsc03b+ele01+ele01l+ece01+ece01l+cpe301+cpe301l+cpe000);
 
-// Round of two the nearest hundredths
+
 var result = Math.round(gwa/22* 100)/100;
     $("#GWA5").val(result);
 };
@@ -181,7 +181,7 @@ function getGWA6() {
  var cpe303 = (input10*1);
  var gwa = (mec01+ece02+ece02l+cpe311+cpe311l+ele02+ele02l+mat10b+cpe302+cpe303);
 
-// Round of two the nearest hundredths
+
 var result = Math.round(gwa/21* 100)/100;
     $("#GWA6").val(result);
 };
@@ -215,7 +215,7 @@ function getGWA7() {
  var cpe421l = (input11*1);
  var gwa = (mec02+mec03+cpe412+cpe412l+cpe411+cpe411l+cpe422+cpe422l+cpe411a+cpe421+cpe421l);
 
-// Round of two the nearest hundredths
+
 var result = Math.round(gwa/24* 100)/100;
     $("#GWA7").val(result);
 };
@@ -248,7 +248,7 @@ function getGWA8() {
  var res01 = (input10*3);
  var gwa = (cpe401+cpe401l+cpe402+cpe402l+cpe412a+cpe423+cpe423l+cpe400+cpee1+res01);
 
-// Round of two the nearest hundredths
+
 var result = Math.round(gwa/23* 100)/100;
     $("#GWA8").val(result);
 };
@@ -277,7 +277,7 @@ function getGWA9() {
  var bee01 = (input8*3);
  var gwa = (cpe513+cpe513l+cpe501+cpe501a+cpee2+cpe521+res02+bee01);
 
-// Round of two the nearest hundredths
+
 var result = Math.round(gwa/21* 100)/100;
     $("#GWA9").val(result);
 };
@@ -302,7 +302,7 @@ function getGWA10() {
  var cpe501c = (input7*2);
  var gwa = (acc01a+cpe522+cpe522l+cpee3+bee01a+cpe501b+cpe501c);
 
-// Round of two the nearest hundredths
+
 var result = Math.round(gwa/17* 100)/100;
     $("#GWA10").val(result);
 };

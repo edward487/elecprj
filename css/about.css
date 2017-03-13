@@ -32,6 +32,8 @@ p.ridge {
     background: rgba(0,0,0,0.7);
 }
 p.blur2 {
+    border-style: ridge;
+    border-color: aqua;
     text-shadow:0 1px 1px rgba(0,0,0,.6);
     transition: box-shadow .5s ease;
     color: white;
@@ -56,3 +58,4 @@ p.blur2 {
 #accordion .panel-title > a.accordion-toggle.collapsed::before, #accordion a.collapsed[data-toggle="collapse"]::before  {
     content:"\e114";
 }
+

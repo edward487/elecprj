@@ -34,6 +34,7 @@
                                 <td>Computer Aided Drafting</td>
                                 <td>1</td>
                                 <td><select class="select-value one5 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -53,6 +54,7 @@
                                 <td>Differential Equations</td>
                                 <td>3</td>
                                 <td><select class="select-value two5 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -72,6 +74,7 @@
                                 <td>Discrete Mathematics</td>
                                 <td>3</td>
                                 <td><select class="select-value three5 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -91,6 +94,7 @@
                                 <td>Environmental Engineering</td>
                                 <td>2</td>
                                 <td><select class="select-value four5 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -110,6 +114,7 @@
                                 <td>Electric Circuits 1</td>
                                 <td>3</td>
                                 <td><select class="select-value five5 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -129,6 +134,7 @@
                                 <td>Electric Circuits 1 (Lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value six5 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -148,6 +154,7 @@
                                 <td>Electronic Devices And Circuits 1</td>
                                 <td>3</td>
                                 <td><select class="select-value seven5 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -166,7 +173,8 @@
                                 <td>ECE01L</td>
                                 <td>Electronic Devices And Circuits 1 (Lab)</td>
                                 <td>1</td>
-                                <<td><select class="select-value eight5 blur-textbox">
+                                <td><select class="select-value eight5 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -185,7 +193,8 @@
                                 <td>CPE301</td>
                                 <td>Data Structure And Algorithm Analysis</td>
                                 <td>3</td>
-                                <<td><select class="select-value nine5 blur-textbox">
+                                <td><select class="select-value nine5 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -204,7 +213,8 @@
                                 <td>CPE301L</td>
                                 <td>Data Structure And Algorithm Analysis (Lab)</td>
                                 <td>1</td>
-                                <<td><select class="select-value ten5 blur-textbox">
+                                <td><select class="select-value ten5 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -223,7 +233,8 @@
                                 <td>CPE000</td>
                                 <td>Computer Hardware Fundamentals</td>
                                 <td>1</td>
-                                <<td><select class="select-value eleven5 blur-textbox">
+                                <td><select class="select-value eleven5 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -242,7 +253,7 @@
                                 <td></td>
                                 <td style="padding-top:18px;"><strong><span class="pull-right">22</span></strong</td>
                                 <td style="padding-top:18px;"><strong>Units<span class="pull-right">GWA:</span></strong></td>
-                                <td><input type="number" placeholder="Average" id="GWA5" class="blur-textbox"></td>
+                                <td><input type="number" placeholder="Grade Weighted Average" id="GWA5" class="blur-textbox"></td>
                             </tr>
                         </tbody>
                     </table>
@@ -269,6 +280,7 @@
                                 <td>Statics Of Rigid Bodies</td>
                                 <td>3</td>
                                 <td><select class="select-value one6 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -288,6 +300,7 @@
                                 <td>Electronic Devices And Circuits 2</td>
                                 <td>3</td>
                                 <td><select class="select-value two6 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -307,6 +320,7 @@
                                 <td>Electronic Devices And Circuits 2 (Lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value three6 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -326,6 +340,7 @@
                                 <td>Logic Circuits And Switching Theory</td>
                                 <td>3</td>
                                 <td><select class="select-value four6 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -345,6 +360,7 @@
                                 <td>Logic Circuits And Switching Theory (Lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value five6 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -364,6 +380,7 @@
                                 <td>Electrical Circuits 2</td>
                                 <td>3</td>
                                 <td><select class="select-value six6 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -383,6 +400,7 @@
                                 <td>Electrical Circuits 2 (Lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value seven6 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -401,7 +419,8 @@
                                 <td>MAT10B</td>
                                 <td>Advanced Engineering Mathematics</td>
                                 <td>3</td>
-                                <<td><select class="select-value eight6 blur-textbox">
+                                <td><select class="select-value eight6 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -421,6 +440,7 @@
                                 <td>Database Systems</td>
                                 <td>2</td>
                                 <td><select class="select-value nine6 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -440,6 +460,7 @@
                                 <td>Computer Engineering Drafting And Design</td>
                                 <td>1</td>
                                 <td><select class="select-value ten6 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -458,7 +479,7 @@
                                 <td></td>
                                 <td style="padding-top:18px;"><strong><span class="pull-right">22</span></strong</td>
                                 <td style="padding-top:18px;"><strong>Units<span class="pull-right">GWA:</span></strong></td>
-                                <td><input type="number" placeholder="Average" id="GWA6" class="blur-textbox"></td>
+                                <td><input type="number" placeholder="Grade Weighted Average" id="GWA6" class="blur-textbox"></td>
                             </tr>
                         </tbody>
                     </table>

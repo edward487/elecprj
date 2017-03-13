@@ -34,6 +34,7 @@
                                 <td>Computer System Architecture</td>
                                 <td>3</td>
                                 <td><select class="select-value one9 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -53,6 +54,7 @@
                                 <td>Computer System Architecture (Lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value two9 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -72,6 +74,7 @@
                                 <td>System Analysis And Design</td>
                                 <td>3</td>
                                 <td><select class="select-value three9 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -91,6 +94,7 @@
                                 <td>Software Engineering</td>
                                 <td>3</td>
                                 <td><select class="select-value four9 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -110,6 +114,7 @@
                                 <td>Professional Elective 2</td>
                                 <td>3</td>
                                 <td><select class="select-value five9 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -129,6 +134,7 @@
                                 <td>Design Projet</td>
                                 <td>2</td>
                                 <td><select class="select-value six9 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -148,6 +154,7 @@
                                 <td>Research Technical  Paper Writing</td>
                                 <td>3</td>
                                 <td><select class="select-value seven9 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -166,7 +173,8 @@
                                 <td>BEE01</td>
                                 <td>Engineering Economy</td>
                                 <td>3</td>
-                                <<td><select class="select-value eight9 blur-textbox">
+                                <td><select class="select-value eight9 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -185,7 +193,7 @@
                                 <td></td>
                                 <td style="padding-top:18px;"><strong><span class="pull-right">21</span></strong</td>
                                 <td style="padding-top:18px;"><strong>Units<span class="pull-right">GWA:</span></strong></td>
-                                <td><input type="number" placeholder="Average" id="GWA9" class="blur-textbox"></td>
+                                <td><input type="number" placeholder="Grade Weighted Average" id="GWA9" class="blur-textbox"></td>
                             </tr>
                         </tbody>
                     </table>
@@ -212,6 +220,7 @@
                                 <td>Entrepreneurship</td>
                                 <td>3</td>
                                 <td><select class="select-value one10 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -231,6 +240,7 @@
                                 <td>Computer Networks</td>
                                 <td>3</td>
                                 <td><select class="select-value two10 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -250,6 +260,7 @@
                                 <td>Computer Networks (Lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value three10 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -269,6 +280,7 @@
                                 <td>Professional Elective 3</td>
                                 <td>3</td>
                                 <td><select class="select-value four10 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -288,6 +300,7 @@
                                 <td>engineering Management</td>
                                 <td>3</td>
                                 <td><select class="select-value five10 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -307,6 +320,7 @@
                                 <td>Engineering Ethics And Computer Laws</td>
                                 <td>2</td>
                                 <td><select class="select-value six10 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -326,6 +340,7 @@
                                 <td>Seminars/Plant Visits</td>
                                 <td>2</td>
                                 <td><select class="select-value seven10 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -344,7 +359,7 @@
                                 <td></td>
                                 <td style="padding-top:18px;"><strong><span class="pull-right">17</span></strong</td>
                                 <td style="padding-top:18px;"><strong>Units<span class="pull-right">GWA:</span></strong></td>
-                                <td><input type="number" placeholder="Average" id="GWA10" class="blur-textbox"></td>
+                                <td><input type="number" placeholder="Grade Weighted Average" id="GWA10" class="blur-textbox"></td>
                             </tr>
                         </tbody>
                     </table>
