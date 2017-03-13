@@ -1,3 +1,4 @@
+    <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="css/navbar.css">
 

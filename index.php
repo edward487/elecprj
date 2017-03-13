@@ -4,6 +4,7 @@
     <title>Computer Engineering | Home</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
   </head>
@@ -52,19 +53,19 @@
                   <div class="dropdown">
                       <img src="img/nav-curriculum-01.svg" class="navigation-buttons nav6" alt="Trolltunga Norway" width="100" height="50">
                       <div class="dropdown-content">
-                        <a href="cur-first-year.php">
+                        <a href="cur-first-year">
                             <img src="img/nav-firstyear-01.svg" alt="Trolltunga Norway" width="290" height="40">
                         </a>
-                        <a href="cur-second-year.php">
+                        <a href="cur-second-year">
                             <img src="img/nav-secondyear-01.svg" alt="Trolltunga Norway" width="290" height="40">
                         </a>
-                        <a href="cur-third-year.php">
+                        <a href="cur-third-year">
                             <img src="img/nav-thirdyear-01.svg" alt="Trolltunga Norway" width="290" height="40">
                         </a>
-                        <a href="cur-fourth-year.php">
+                        <a href="cur-fourth-year">
                             <img src="img/nav-fourthyear-01.svg" alt="Trolltunga Norway" width="290" height="40">
                         </a>
-                        <a href="cur-fifth-year.php">
+                        <a href="cur-fifth-year">
                             <img src="img/nav-fifthyear-01.svg" alt="Trolltunga Norway" width="290" height="40">
                         </a>
                       </div>
