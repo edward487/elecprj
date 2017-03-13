@@ -55,7 +55,7 @@ strong{
     font-family: 'Oswald Regular';
 }
 p.dotted {
-  border-style: dotted;
+  border-style: solid;
   padding: 10px;
   border-width: 3px;
   width: 400px;
@@ -63,7 +63,7 @@ p.dotted {
   border-color: aqua;
 }
 p.dotted2 {
-  border-style: dotted;
+  border-style: solid;
   padding: 10px;
   border-width: 3px;
   width: 200px;

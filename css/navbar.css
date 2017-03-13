@@ -17,7 +17,7 @@
         font-size: 1.3em !important;
 }
 .nav.navbar-nav > li > a:hover, .nav.navbar-nav > li > a:focus {
-        color: #FF9933;
+        color: #00C5C5;
         text-decoration: none;
         background-color: rgba(0, 0, 0, 0);
 }
@@ -28,7 +28,7 @@
 
 }
 .dropdown .dropdown-menu li a:hover{
-        color: #FF9933;
+        color: #00C5C5;
         text-decoration: none;
         background-color: rgba(0,0,0,0);
 }
