@@ -17,19 +17,18 @@ p {
     color: whitesmoke;
 }
 p.ridge {
-    border-style: solid;
+    border-style: ridge;
     border-width: 3px; 
     border-color: aqua;
     text-shadow:0 1px 1px rgba(0,0,0,.6);
     transition: box-shadow .5s ease;
-    border-color: #18181C; 
     padding: 10px;
     background: #18181C;
 }
 
 .title-bg{
-    border-style: solid;
-    border-color: #18181C; 
+    border-style: ridge;
+    border-color: aqua; 
     padding: 10px;
     background: #18181C;
 }    
@@ -48,4 +47,9 @@ td,th {
   color: whitesmoke;
   text-shadow:0 1px 1px rgba(0,0,0,.6);
   transition: box-shadow .5s ease;
+}
+div div table tbody tr td select option {
+ background: rgba(0,0,0,0.9); 
+ color: whitesmoke;
+ padding: 10px;
 }

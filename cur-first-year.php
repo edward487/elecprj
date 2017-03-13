@@ -34,6 +34,7 @@
                                 <td>Engineering Orientation</td>
                                 <td>1</td>
                                 <td><select class="select-value one blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -53,6 +54,7 @@
                                 <td>College Algebra</td>
                                 <td>3</td>
                                 <td><select class="select-value two blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -72,6 +74,7 @@
                                 <td>Plane and Spherical Trigonometry</td>
                                 <td>3</td>
                                 <td><select class="select-value three blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -91,6 +94,7 @@
                                 <td>General and Organic Chemistry</td>
                                 <td>3</td>
                                 <td><select class="select-value four blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -110,6 +114,7 @@
                                 <td>Gneral and Organic Chemistry (Lab)</td>
                                 <td>1</td>
                                 <td><select class="select-value five blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -129,6 +134,7 @@
                                 <td>Vocabulary and Communitative Grammar</td>
                                 <td>3</td>
                                 <td><select class="select-value six blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -148,6 +154,7 @@
                                 <td>Komunikasyon sa Pang Akademikong Filipino</td>
                                 <td>3</td>
                                 <td><select class="select-value seven blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -166,7 +173,8 @@
                                 <td>DRAW01</td>
                                 <td>Engineering Drawing 1</td>
                                 <td>1</td>
-                                <<td><select class="select-value eight blur-textbox">
+                                <td><select class="select-value eight blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -186,6 +194,7 @@
                                 <td>Physical Fitness</td>
                                 <td>2</td>
                                 <td><select class="select-value nine blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -205,6 +214,7 @@
                                 <td>National Service Training Program</td>
                                 <td>0</td>
                                 <td><select class="select-value blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -223,7 +233,7 @@
                                 <td></td>
                                 <td style="padding-top:18px;"><strong><span class="pull-right">20</span></strong</td>
                                 <td style="padding-top:18px;"><strong>Units<span class="pull-right">GWA:</span></strong></td>
-                                <td><input type="number" placeholder="Average" id="GWA1" class="blur-textbox"></td>
+                                <td><input type="number" placeholder="Grade Weighted Average" id="GWA1" class="blur-textbox"></td>
                             </tr>
                         </tbody>
                     </table>
@@ -250,6 +260,7 @@
                                 <td>Advance Algebra</td>
                                 <td>2</td>
                                 <td><select class="select-value one2 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -269,6 +280,7 @@
                                 <td>Analytic Geometry</td>
                                 <td>2</td>
                                 <td><select class="select-value two2 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -288,6 +300,7 @@
                                 <td>Solid Mensuration</td>
                                 <td>2</td>
                                 <td><select class="select-value three2 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -307,6 +320,7 @@
                                 <td>General Psychology</td>
                                 <td>3</td>
                                 <td><select class="select-value four2 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -326,6 +340,7 @@
                                 <td>Study and Thinking Skills in English</td>
                                 <td>3</td>
                                 <td><select class="select-value five2 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -345,6 +360,7 @@
                                 <td>Pagbasa At Pagsulat Sa Ibat Ibang Disiplina</td>
                                 <td>3</td>
                                 <td><select class="select-value six2 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -364,6 +380,7 @@
                                 <td>Introduction to Humanities, Visual Arts, And Music</td>
                                 <td>3</td>
                                 <td><select class="select-value seven2 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -382,7 +399,8 @@
                                 <td>HUM03</td>
                                 <td>Philosophical Logic</td>
                                 <td>3</td>
-                                <<td><select class="select-value eight2 blur-textbox">
+                                <td><select class="select-value eight2 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -402,6 +420,7 @@
                                 <td>Rhytmic Activities</td>
                                 <td>2</td>
                                 <td><select class="select-value nine2 blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -421,6 +440,7 @@
                                 <td>National Service Training Program 2</td>
                                 <td>0</td>
                                 <td><select class="select-value blur-textbox">
+                                        <option value="0.00"></option>
                                         <option value="1.00">1.00</option>
                                         <option value="1.25">1.25</option>
                                         <option value="1.50">1.50</option>
@@ -439,7 +459,7 @@
                                 <td></td>
                                 <td style="padding-top:18px;"><strong><span class="pull-right">23</span></strong</td>
                                 <td style="padding-top:18px;"><strong>Units<span class="pull-right">GWA:</span></strong></td>
-                                <td><input type="number" placeholder="Average" id="GWA2" class="blur-textbox"></td>
+                                <td><input type="number" placeholder="Grade Weighted Average" id="GWA2" class="blur-textbox"></td>
                             </tr>
                         </tbody>
                     </table>

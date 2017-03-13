@@ -66,7 +66,7 @@
                                     <label for="Course"><strong>Course:</strong></label>
                                   </div>
                                   <div class="col-md-9">
-                                      <select class="blur-textbox">
+                                      <select class="blur-textbox" style="color: whitesmoke;  background: rgba(0,0,0,1);">
                                           <option></option>
                                           <option>BSCpE-I</option>
                                           <option>BSCpE-II</option>
@@ -74,7 +74,7 @@
                                           <option>BSCpE-IV</option>
                                           <option>BSCpE-V</option>
                                       </select>
-                              </div><br><br><br><br>
+                              </div><br><br><br><br><br>
                               <div class="form-group col-md-5">
                                   <div class="g-recaptcha" data-sitekey="6LffBA0UAAAAAN7_ljZqzwXogdtXx69_zQelfXi8"></div>
                               </div>

@@ -47,7 +47,7 @@ var validator = $('#createaccount').bootstrapValidator({
      				message : "The password must be 8 characters long"
      			},
      			identical : {
-     				field : "Password",
+     				field : "pwd",
      				message : "Password do not match"
      			}
      		}
