@@ -49,9 +49,26 @@
           </div>
           <div class="row">
               <div class="col-md-4 col-md-offset-2">
-                  <a href="job">
-                   <img class="navigation-buttons nav6" src="img/nav-curriculum-01.svg">
-                  </a>
+                  <div class="dropdown">
+                      <img src="img/nav-curriculum-01.svg" class="navigation-buttons nav6" alt="Trolltunga Norway" width="100" height="50">
+                      <div class="dropdown-content">
+                        <a href="cur-first-year.php">
+                            <img src="img/nav-firstyear-01.svg" alt="Trolltunga Norway" width="290" height="40">
+                        </a>
+                        <a href="cur-second-year.php">
+                            <img src="img/nav-secondyear-01.svg" alt="Trolltunga Norway" width="290" height="40">
+                        </a>
+                        <a href="cur-third-year.php">
+                            <img src="img/nav-thirdyear-01.svg" alt="Trolltunga Norway" width="290" height="40">
+                        </a>
+                        <a href="cur-fourth-year.php">
+                            <img src="img/nav-fourthyear-01.svg" alt="Trolltunga Norway" width="290" height="40">
+                        </a>
+                        <a href="cur-fifth-year.php">
+                            <img src="img/nav-fifthyear-01.svg" alt="Trolltunga Norway" width="290" height="40">
+                        </a>
+                      </div>
+                    </div>
               </div>
           </div>
           <div class="row">
@@ -68,10 +85,6 @@
                   </a>
               </div>
           </div>
-          <!--<div id="container" OnClick="showSubImage();" onClick="hideSubImage();">
-            <img id="main-image" style="width: 600px; height: 700px;" src="img/back7.png"/>
-          <div id="sub-image"></div>    
-          </div>-->
           <audio autoplay loop>
               <source src="audio/web-audio.mp3">
           </audio>
