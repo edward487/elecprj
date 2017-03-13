@@ -207,7 +207,7 @@
       <div style="margin-top: -866px;margin-left: 985px;">
           <h2><strong>Languages</strong></h2>
       </div>
-  </body>   
+  </body>  
     <script src="vendor/jquery/jquery-3.1.1.js"></script>
     <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
  </html>

@@ -263,7 +263,7 @@
       <div class="row">
                 <div class="title-bg">
                     <div class="panel-heading">
-                        <h2 align="center" style="color: gray; font-family: Transformers;">GWA Generator<br><h4 align="center" style="color: gray; font-family: Transformers;">1st Sem</h4></h2>
+                        <h2 align="center" style="color: gray; font-family: Transformers;">GWA Generator<br><h4 align="center" style="color: gray; font-family: Transformers;">2nd Sem</h4></h2>
                     </div>
                     <table class="table">
                         <thead align="center">

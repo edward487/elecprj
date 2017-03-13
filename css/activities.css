@@ -7,7 +7,8 @@ strong {
 body {
     background: url('../img/Background-01.jpg');
     background-attachment: fixed;
-    background-size: 1250px;
+    background-repeat: no-repeat;
+    background-size: 1350px;
 }
 p {
     color: whitesmoke;
