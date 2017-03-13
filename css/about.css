@@ -1,13 +1,13 @@
 body{
     text-align: justify;
-    color: #A0A0A0;
+    color: #00B7AE;
     background: url('../img/Background-01.jpg');
     background-size: cover;
     background-attachment: fixed;
     overflow-x: hidden;
 }
 strong {
-    color:aqua;
+    color:#00B7AE;
     font-family: 'Oswald Regular';
 }
 p {
@@ -18,13 +18,13 @@ p {
     border-width: 3px; 
     text-shadow:0 1px 1px rgba(0,0,0,.6);
     transition: box-shadow .5s ease;
-    border-color: aqua; 
+    border-color: #00B7AE; 
     padding: 10px;
     background: rgba(0,0,0,0.7);
 }
 p.ridge {
     border-style: ridge;
-    border-color: aqua;
+    border-color: #00B7AE;
     border-width: 3px; 
     text-shadow:0 1px 1px rgba(0,0,0,.6);
     transition: box-shadow .5s ease; 
@@ -33,10 +33,10 @@ p.ridge {
 }
 p.blur2 {
     border-style: ridge;
-    border-color: aqua;
+    border-color: #00B7AE;
     text-shadow:0 1px 1px rgba(0,0,0,.6);
     transition: box-shadow .5s ease;
-    color: white;
+    color: whitesmoke;
     padding: 10px;
     background: rgba(0,0,0,0.7);
 }

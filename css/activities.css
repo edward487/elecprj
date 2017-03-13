@@ -2,7 +2,7 @@ body .col-md-12{
     text-align: justify;
 }
 strong {
-    color: aqua;
+    color: #00B7AE;
 }
 body {
     background: url('../img/Background-01.jpg');
@@ -18,16 +18,16 @@ p.ridge {
     border-width: .5px; 
     text-shadow:0 1px 1px rgba(0,0,0,.6);
     transition: box-shadow .5s ease;
-    border-color: aqua; 
+    border-color: #00B7AE; 
     padding: 10px;
     background: rgba(0,0,0,0.7);
 }
 h2, h4 {
-   color: aqua;
+   color: #00B7AE;
 }
 .title-bg{
     border-style: ridge;
-    border-color: aqua; 
+    border-color: #00B7AE; 
     padding: 10px;
     background: rgba(0,0,0,0.8);
 }    
