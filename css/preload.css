@@ -5,11 +5,8 @@ video{
   min-width: 100%;
   min-height: 100%;
   width: 1280px;
-<<<<<<< HEAD
   height: 1080px;
-=======
   height: 1020px;
->>>>>>> 301cedd4ccca16be99646f16cb366e71125e059c
   z-index: -100;
   transform: translate(-50%, -50%);
 }
