@@ -3,64 +3,51 @@
 <head>
 
     <style type="text/css">
-#container {
-  width:267px;
-  height:272px;
-  top:100px;
-  left:100px;
-  position:absolute;
-  font-size:16px;
-  text-shadow:white 0px 0px 6px;
-  text-align:center;
+.dropdown {
+    position: relative;
+    display: inline-block;
 }
-#box1 {
-  background-image: -moz-image-rect(url(img/about2.png), 0%, 50%, 50%, 0%);
-  width:133px;
-  height:136px;
-  position:absolute;
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
 }
-#box2 {
-  background-image: -moz-image-rect(url(https://mdn.mozillademos.org/files/12053/firefox.png), 0%, 100%, 50%, 50%);
-  width:133px;
-  height:136px;
-  position:absolute;
+
+.dropdown:hover .dropdown-content {
+    display: block;
 }
-#box3 {
-  background-image: -moz-image-rect(url(https://mdn.mozillademos.org/files/12053/firefox.png), 50%, 50%, 100%, 0%);
-  width:133px;
-  height:136px;
-  position:absolute;
+
+.desc {
+    padding: 15px;
+    text-align: center;
 }
-#box4 {
-  background-image: -moz-image-rect(url(https://mdn.mozillademos.org/files/12053/firefox.png), 50%, 100%, 100%, 50%);
-  width:133px;
-  height:136px;
-  position:absolute;
     </style>
    
 </head>
 <body>
-<div id="container" onclick="rotate()">
-  <div id="box1" style="left:0px;top:0px;">Top left</div>
-  <div id="box2" style="left:133px;top:0px;">Top right</div>
-  <div id="box3" style="left:0px;top:136px;">Bottom left</div>
-  <div id="box4" style="left:133px;top:136px;">Bottom right</div>
+<h2>Dropdown Image</h2>
+<p>Move the mouse over the image below to open the dropdown content.</p>
+
+<div class="dropdown">
+  <img src="img/nav-curriculum-01.svg" alt="Trolltunga Norway" width="100" height="50">
+  <div class="dropdown-content">
+    <a href="contact.php">
+        <img src="img/nav-about-01.svg" alt="Trolltunga Norway" width="90" height="20">
+    </a>
+    <a href="index.php">
+    <img src="img/nav-about-01.svg" alt="Trolltunga Norway" width="90" height="20">
+    </a>
+    <a href="about.php">
+    <img src="img/nav-about-01.svg" alt="Trolltunga Norway" width="90" height="20">
+    </a>
+  </div>
 </div>
-    <script type="text/javascript">
-function rotate() {
-  var prevStyle = window.getComputedStyle(document.getElementById("box4"), null).getPropertyValue("background-image");
-  
-  // Now that we've saved the last one, start rotating
-  
-  for (var i=1; i<=4; i++) {
-    var curId = "box" + i;
-    
-    // Shift the background images
-    
-    var curStyle = window.getComputedStyle(document.getElementById(curId), null).getPropertyValue("background-image");
-    document.getElementById(curId).style.backgroundImage = prevStyle;
-    prevStyle = curStyle;
-  };
+
 </script>
+    <script src="vendor/jquery/jquery.min.js"></script>
 </body>
 </html>
