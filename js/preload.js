@@ -1,3 +1,4 @@
+$(window).ready(function() {
 var sec = 33;
 var myTimer = document.getElementById('myTimer');
 var myBtn = document.getElementById('myBtn');
@@ -19,3 +20,4 @@ function countDown() {
   sec -= 1;
   window.setTimeout(countDown, 1000);
 }
+});
