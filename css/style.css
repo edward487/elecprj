@@ -3,7 +3,8 @@ body{
     background-size: 1350px;;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    overflow-y: hidden;
+    overflow: hidden;
+
 }
 .position1{
     margin-top: 500px;
@@ -42,7 +43,7 @@ h1 strong{
 }
 
 div a .nav1:hover {;
-    width: 90%;
+    width: 80%;
     height: 100%;
 }
 
@@ -52,7 +53,7 @@ div a .nav1:hover {;
 } 
 
 div a .nav2:hover {
-    width: 90%;
+    width: 80%;
     height: 100%;
 }
 
@@ -62,7 +63,7 @@ div a .nav2:hover {
 } 
 
 div a .nav3:hover {
-    width: 90%;
+    width: 80%;
     height: 100%;
 }
 
@@ -72,7 +73,7 @@ div a .nav3:hover {
 } 
 
 div a .nav4:hover {
-    width: 90%;
+    width: 80%;
     height: 100%;
 }
 .nav5 {
@@ -81,7 +82,7 @@ div a .nav4:hover {
 } 
 
 div a .nav5:hover {
-    width: 90%;
+    width: 80%;
     height: 100%;
 }
 .nav6 {
@@ -95,7 +96,7 @@ div a .nav5:hover {
     margin-left: -120px;
 } 
 div a .nav7:hover {
-    width: 90%;
+    width: 80%;
     height: 100%;
 }
 
@@ -104,7 +105,7 @@ div a .nav7:hover {
     margin-left: 630px;
 } 
 div a .nav8:hover {
-    width: 90%;
+    width: 80%;
     height: 100%;
 }
 .dropdown {
