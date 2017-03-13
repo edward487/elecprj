@@ -1,8 +1,13 @@
 body {
     background: url('../img/Background-01.jpg');
+<<<<<<< HEAD
+    background-attachment: fixed;
+    background-size: 1250px;
+=======
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 1350px;
+>>>>>>> 7085910cde38470cd50e832f6202a918ca158c07
     overflow-x: hidden;
 }
 
@@ -55,7 +60,7 @@ strong{
     font-family: 'Oswald Regular';
 }
 p.dotted {
-  border-style: dotted;
+  border-style: solid;
   padding: 10px;
   border-width: 3px;
   width: 400px;
@@ -63,7 +68,7 @@ p.dotted {
   border-color: aqua;
 }
 p.dotted2 {
-  border-style: dotted;
+  border-style: solid;
   padding: 10px;
   border-width: 3px;
   width: 200px;

@@ -1,3 +1,4 @@
+    <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="css/navbar.css">
 
@@ -17,13 +18,13 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/elecprj/">Home</a></li>
-            <li><a href="about">About</a></li>
-            <li><a href="contact">Contact</a></li>
-            <li><a href="academic-policies">Academic Policies</a></li>
-            <li><a href="job">Job Oppurtunities</a></li>
+            <li><a href="/elecprj/">HOME</a></li>
+            <li><a href="about">ABOUT</a></li>
+            <li><a href="contact">CONTACT</a></li>
+            <li><a href="academic-policies">ACADEMIC POLICIES</a></li>
+            <li><a href="job">JOB OPPORTUNITIES</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Curriculum<span class="caret"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">CURRICULUM<span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="cur-first-year">First Year</a></li>
                 <li><a href="cur-second-year">Second Year</a></li>
@@ -34,8 +35,8 @@
             </li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="createaccount">Sign up</a></li>
-            <li><a href="login">Log in</a></li>
+            <li><a href="createaccount">SIGN UP</a></li>
+            <li><a href="login">LOGIN</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
