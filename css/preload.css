@@ -52,7 +52,7 @@ div a {
 }
 .btnDisable:hover {
   padding: 10px;
-  background-color: beige;
-  color: black;
+  background-color: red;
+  color: whitesmoke;
   cursor:wait;
 }

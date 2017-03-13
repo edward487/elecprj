@@ -12,8 +12,8 @@
           <div class="row">
           <div class="col-md-4">
               <a href="/elecprj/">
-              <a href="preload.php">
-                <img class="navigation-buttons nav1" src="img/nav-home-01.svg">
+              <a href="preload">
+                <img class="navigation-buttons nav1" src="img/nav-preload-01.png">
               </a>
           </div>
           <div class="col-md-6">
@@ -69,6 +69,10 @@
                   </a>
               </div>
           </div>
+          <!--<div id="container" OnClick="showSubImage();" onClick="hideSubImage();">
+            <img id="main-image" style="width: 600px; height: 700px;" src="img/back7.png"/>
+          <div id="sub-image"></div>    
+          </div>-->
           <audio autoplay loop>
               <source src="audio/web-audio.mp3">
           </audio>
