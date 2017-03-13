@@ -24,7 +24,7 @@
                   </p>
               </div>
               <div class="col-md-4">
-                  <img src="../elecprj/img/image1.jpg" class="img-rounded animate animated lightSpeedIn" width="304" height="236">
+                  <img src="../elecprj/img/image1.jpg" class="img-rounded animate animated bounceInDown" width="304" height="236">
               </div>
               </div><br><br><br>
               <div class="col-md-12">
