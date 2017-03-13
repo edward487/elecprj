@@ -55,7 +55,7 @@
                 </form>
             </div>
             <div class="modal-footer blur">
-              <button type="button" class="btn blur-button"><span class="glyphicon glyphicon-ok"></span>Save</button>
+              <button type="button" class="btn blur-button"><span class="glyphicon glyphicon-ok"></span>Submit</button>
               <button type="button" class="btn blur-button" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span>Close</button>
             </div>
           </div>
