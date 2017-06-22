@@ -14,7 +14,7 @@
     </video>
         <div id="wrapper">
         <div id="myTimer"></div>
-            <button type="button" id="myBtn" class="btnDisable" disabled onclick="location.href='index.php'">Please wait...</button>
+            <button type="button" id="myBtn" class="btnDisable" disabled onclick="location.href='/elecprj/'">Please wait...</button>
         </div>
     </div>
     <script>

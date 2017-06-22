@@ -6,7 +6,7 @@ $(window).ready(function() {
 //first year 1rst Sem
 function getGWA1() {
 
- var input1 = $(".one").val();
+ //var input1 = $(".one").val();
  var input2 = $(".two").val();
  var input3 = $(".three").val();
  var input4 = $(".four").val();

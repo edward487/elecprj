@@ -18,7 +18,7 @@
               <div class="panel-heading col-md-offset-4">
                   <h1><strong>&emsp;&nbsp;Create Account</strong></h1>
               </div>
-              <form method="post" action="" id="createaccount">
+              <form method="post" action="createaccount_a.php" id="createaccount">
                   <div class="panel-body">
                   <div class="col-md-offset-4">
                       <div class="col-md-8">
@@ -51,7 +51,7 @@
                                   <label for="Pwd"><strong>Password:</strong></label>
                               </div>
                               <div class="col-md-9">
-                                  <input type="password" class="blur-textbox" id="Pwd" name="pwd" required>
+                                  <input type="password" class="blur-textbox" id="Pwd" name="password" required>
                               </div>
                           </div><br><br><br>
                           <div class="form-group">
@@ -67,7 +67,7 @@
                                     <label for="Course"><strong>Course:</strong></label>
                                   </div>
                                   <div class="col-md-9">
-                                      <select class="blur-textbox" style="color: whitesmoke;  background: rgba(0,0,0,1);">
+                                      <select class="blur-textbox" name="course" style="color: whitesmoke;  background: rgba(0,0,0,1);">
                                           <option></option>
                                           <option>BSCpE-I</option>
                                           <option>BSCpE-II</option>
@@ -79,7 +79,7 @@
                               <div class="form-group col-md-5">
                                   <div class="g-recaptcha" data-sitekey="6LffBA0UAAAAAN7_ljZqzwXogdtXx69_zQelfXi8"></div>
                               </div>
-                              <div class="col-md-9"><button type="button" class="blur-signin col-md-12"><strong>Sign up</strong></button></div>
+                              <div class="col-md-9"><button type="submit" class="blur-signin col-md-12"><strong>Sign up</strong></button></div>
                           </div>
                       </div>
                   </div>
